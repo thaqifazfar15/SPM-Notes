@@ -2,21 +2,35 @@
 
 #### i. Quantum of Energy
 
-
-
 $$ H \propto f $$
 $$ H = hf $$
-where,
+Where, 
 
-$H=$ photon energy
-$h  =$ Planck's constant ($6.63\times10^{-34}J s$)
-$f=$ frequency of light waves
+$H= photon$ $energy$
+
+$h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
+
+$f=$ $frequency$ $of$ $light$ $waves$
 $$ $$
 $$c =\lambda f$$
 $$H=\frac{hc}{\lambda}$$
-
+$$ $$
 #### ii. Wave-Particle Duality
 
-### 2. Photoelectric Effect
+$$\lambda = \frac{h}{p}$$
+Where,
 
-### 3. 
+$\lambda = wavelength$
+
+$h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
+
+$p =$ $momentum$ $of$ $particle$
+$$ $$
+$$p = mv$$
+$$\lambda = \frac{h}{mv}$$
+$$ $$
+
+
+## 2. Photoelectric Effect
+
+## 3. Einstein's Photoelectric Theory
