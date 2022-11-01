@@ -75,7 +75,7 @@ $$P=nhf=\frac{nhc}{\lambda}$$
 ```ad-note
 title: #### Info: eV to Joule Conversion
 collapse: open
-icon:circle-exclamation
+icon:info-circle
 
 $1\:eV = 1.60 \times 10^{-19}\:J$ 
 ```

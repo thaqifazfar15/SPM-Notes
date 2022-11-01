@@ -18,28 +18,7 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "86cfa417851ef391"
-          }
-        ]
-      },
-      {
-        "id": "d99d62b955fce174",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a32001a6f2ff958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "86cfa417851ef391"
+            }
           }
         ]
       }
@@ -166,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a32001a6f2ff958",
+  "active": "0ba284f18e698f90",
   "lastOpenFiles": [
+    "2022-11-01.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",
     "Untitled 1.md",
