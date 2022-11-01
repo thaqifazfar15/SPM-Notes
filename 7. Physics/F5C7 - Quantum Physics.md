@@ -1,3 +1,4 @@
+
 ## 1. Quantum Theory of Light
 
 #### i. Quantum of Energy
@@ -10,7 +11,7 @@ $H= photon$ $energy$
 
 $h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
 
-$f=$ $frequency$ $of$ $light$ $waves$
+$f=$ $frequency\:of \:light \:waves$
 $$ $$
 $$c =\lambda f$$
 $$H=\frac{hc}{\lambda}$$
@@ -30,7 +31,8 @@ $$p = mv$$
 $$\lambda = \frac{h}{mv}$$
 $$ $$
 
-
+---
 ## 2. Photoelectric Effect
+---
 
 ## 3. Einstein's Photoelectric Theory
