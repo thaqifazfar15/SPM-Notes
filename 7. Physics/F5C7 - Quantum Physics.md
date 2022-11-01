@@ -1,19 +1,25 @@
 
 ## 1. Quantum Theory of Light
 
+```ad-note
+title: $H=\lambda$
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
+```
+
 #### i. Quantum of Energy
 ```
-$$H \propto f$$
+$$ H\propto f$$
+$ H= $
 ```
 $$ H \propto f $$
 $$ H = hf $$
 Where, 
 
-$H= photon$ $energy$
+$H = photon\:energy$
 
-$h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
+$h\; =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
 
-$f=$ $frequency\:of \:light \:waves$
+$f\:=$ $frequency\:of \:light \:waves$
 $$ $$
 $$c =\lambda f$$
 $$H=\frac{hc}{\lambda}$$

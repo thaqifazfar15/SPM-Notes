@@ -1,0 +1,8 @@
+{
+  "showInlineTitle": true,
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "livePreview": false
+}

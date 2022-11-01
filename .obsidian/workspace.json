@@ -16,7 +16,7 @@
                 "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             },
             "group": "4fe9bde121cf5220"
@@ -36,7 +36,7 @@
                 "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "mode": "preview",
                 "backlinks": false,
-                "source": false
+                "source": true
               }
             },
             "group": "4fe9bde121cf5220"
@@ -150,6 +150,14 @@
                 "file": "7. Physics/F5C7 - Quantum Physics.md"
               }
             }
+          },
+          {
+            "id": "6d625c64a0050919",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ]
       }
@@ -158,7 +166,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ab29ebd54bda976c",
+  "active": "0ba284f18e698f90",
   "lastOpenFiles": [
     "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",
