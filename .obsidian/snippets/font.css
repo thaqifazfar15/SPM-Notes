@@ -1,8 +1,13 @@
-strong .cm-strong {
-    font-weight: 800;
-color: rgb(188, 32, 79)!important;
+strong, .cm-strong {
+    font-weight: 800!important;
+    color: rgb(188, 32, 79)!important;
 }
 
 i, em, span.cm-em {
-color: #3f4f6f; 
+    color: #3f4f6f; 
+}
+
+.admonition-title-icon {
+
+margin-right: 1rem;
 }

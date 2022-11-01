@@ -6,7 +6,6 @@
       {
         "id": "bfdb6633ceafa7fa",
         "type": "tabs",
-        "dimension": 50.667714061272584,
         "children": [
           {
             "id": "0ba284f18e698f90",
@@ -20,17 +19,16 @@
                 "source": true
               }
             },
-            "group": "f25096e676f8d9c5"
+            "group": "86cfa417851ef391"
           }
         ]
       },
       {
-        "id": "fcb6a92b57d73c13",
+        "id": "d99d62b955fce174",
         "type": "tabs",
-        "dimension": 49.332285938727416,
         "children": [
           {
-            "id": "2a20789e5438bb3b",
+            "id": "7a32001a6f2ff958",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +39,7 @@
                 "source": true
               }
             },
-            "group": "f25096e676f8d9c5"
+            "group": "86cfa417851ef391"
           }
         ]
       }
@@ -168,7 +166,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a20789e5438bb3b",
+  "active": "7a32001a6f2ff958",
   "lastOpenFiles": [
     "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",
