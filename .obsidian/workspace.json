@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cb35fe7c32bb53e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "0ba284f18e698f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/T5.md",
-                "mode": "source",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "f43897e7d26a789d",
@@ -95,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/T5.md",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/T5.md",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/T5.md"
+                "file": "7. Physics/F5C7 - Quantum Physics.md"
               }
             }
           }
@@ -148,6 +140,7 @@
   },
   "active": "0ba284f18e698f90",
   "lastOpenFiles": [
+    "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",
     "Untitled 1.md",
     "2. Sejarah/i. Exercise Link.md",
