@@ -7,7 +7,11 @@ i, em, span.cm-em {
     color: #3f4f6f; 
 }
 
+/* Admonition Plugin CSS Snippets */
 .admonition-title-icon {
-
 margin-right: 1rem;
+}
+
+.admonition-title-icon > svg {
+transform: scale(1.6);
 }

@@ -54,19 +54,14 @@ color: 188, 32, 79
 
 Energy for one photon, $\:E=hf$
 
-Assuming that **$n$ photons** are being emitted per second, then photons power, $P$ which is the total energy transfer per second is
+Assuming that **$n$ photons** are being emitted per second, then **photons power, $P$** which is the total energy transfer per second is
 
-
-$\lambda = wavelength$
-$h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
-
-$p =$ $momentum$ $of$ $particle$
-$$ $$
-$$p = mv$$
-$$\lambda = \frac{h}{mv}$$
-$$ $$
+$$P=nhf=\frac{nhc}{\lambda}$$
 ```
 
+```ad-note
+title: #### Convert eV, electron- to J, joule
+```
 ---
 ## 2. Photoelectric Effect
 ---
