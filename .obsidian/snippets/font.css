@@ -3,8 +3,13 @@ strong, .cm-strong {
     color: rgb(188, 32, 79)!important;
 }
 
+/* rgb(188, 32, 50)
+ * rgb(0, 113, 29) 
+ * rgb(0, 103, 202)
+ * */
+
 i, em, span.cm-em {
-    color: #3f4f6f; 
+    color: rgb(0, 103, 150); 
 }
 
 /* Admonition Plugin CSS Snippets */

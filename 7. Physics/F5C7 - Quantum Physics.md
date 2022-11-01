@@ -11,7 +11,7 @@
 | X-Rays | X |
 | Gamma Rays | Girlfriend |
 
-Going 
+Going down the tables, ***frequency (Hz) is increasing ***but wavelength (m) is decreasing.
 
 #### i. Quantum of Energy
 
