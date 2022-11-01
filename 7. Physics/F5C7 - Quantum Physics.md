@@ -1,13 +1,11 @@
-## Important Formula
+## 1. Quantum Theory of Light
 
-### 1. Quantum Theory of Light
-#### Quantum of Energy
+#### i. Quantum of Energy
 
-$$ $$
+
 
 $$ H \propto f $$
 $$ H = hf $$
-$$ $$
 where,
 
 $H=$ photon energy
@@ -17,6 +15,8 @@ $$ $$
 $$c =\lambda f$$
 $$H=\frac{hc}{\lambda}$$
 
+#### ii. Wave-Particle Duality
 
+### 2. Photoelectric Effect
 
-### 2. 
+### 3. 
