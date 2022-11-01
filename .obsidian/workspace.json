@@ -14,11 +14,32 @@
               "type": "markdown",
               "state": {
                 "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            },
+            "group": "4fe9bde121cf5220"
+          }
+        ]
+      },
+      {
+        "id": "edba36d8a8c7999a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d51aa758a26b4aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
-            }
+            },
+            "group": "4fe9bde121cf5220"
           }
         ]
       }
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +87,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "f43897e7d26a789d",
@@ -138,7 +159,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ba284f18e698f90",
+  "active": "d51aa758a26b4aeb",
   "lastOpenFiles": [
     "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",

@@ -2,4 +2,6 @@
 
 ### 1. Quantum of Energy
 
-H $$\propto f
+$$ H \propto f $$
+$$ H = hf $$
+
