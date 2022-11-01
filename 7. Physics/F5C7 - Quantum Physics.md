@@ -1,5 +1,18 @@
 
 ## 1. Quantum Theory of Light
+
+| Types of Waves | Acronym |
+|---|---|
+| Radio Waves | Radi |
+| Microwave | May |
+| Infrared Radiation | I |
+| Visible Light | See |
+| Ultraviolet Radioation | Ur |
+| X-Rays | X |
+| Gamma Rays | Girlfriend |
+
+Going 
+
 #### i. Quantum of Energy
 
 ```ad-note
@@ -64,11 +77,13 @@ title: #### Info: eV to Joule Conversion
 collapse: open
 icon:circle-exclamation
 
-$1\:eV = 1.60 \times$
+$1\:eV = 1.60 \times 10^{-19}\:J$ 
 ```
 
 ---
 ## 2. Photoelectric Effect
+
+
 ---
 
 ## 3. Einstein's Photoelectric Theory
