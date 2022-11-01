@@ -60,8 +60,13 @@ $$P=nhf=\frac{nhc}{\lambda}$$
 ```
 
 ```ad-note
-title: #### Convert eV, electron- to J, joule
+title: #### Info: eV to Joule Conversion
+collapse: open
+icon:circle-exclamation
+
+$1\:eV = 1.60 \times$
 ```
+
 ---
 ## 2. Photoelectric Effect
 ---
