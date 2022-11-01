@@ -5,5 +5,8 @@
   "nativeMenus": false,
   "interfaceFontFamily": "",
   "monospaceFontFamily": "DejaVu Sans Mono",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "enabledCssSnippets": [
+    "big-math"
+  ]
 }

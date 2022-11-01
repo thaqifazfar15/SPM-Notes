@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,7 +158,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d51aa758a26b4aeb",
+  "active": "ab29ebd54bda976c",
   "lastOpenFiles": [
     "7. Physics/F5C7 - Quantum Physics.md",
     "Untitled.md",
