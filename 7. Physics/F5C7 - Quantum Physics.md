@@ -7,7 +7,9 @@ title: #### Calculate Photon Energy
 collapse: open
 icon:calculator
 color: 188, 32, 79
+
 $$ H = hf $$
+
 Where, 
 
 $H = photon\:energy$
@@ -28,7 +30,9 @@ title: #### Louis de Broglie Wavelength
 collapse: open
 icon:calculator
 color: 188, 32, 79
+
 $$\lambda = \frac{h}{p}$$
+
 Where,
 
 $\lambda = wavelength$
@@ -43,15 +47,17 @@ $$ $$
 ```
 
 ```ad-note
-title: #### Problem Solving for Photon energy nd Power
+title: #### Problem Solving for Photon Energy and Power
 collapse: open
 icon:calculator
 color: 188, 32, 79
-$$\lambda = \frac{h}{p}$$
-Where,
+
+Energy for one photon, $\:E=hf$
+
+Assuming that **$n$ photons** are being emitted per second, then photons power, $P$ which is the total energy transfer per second is
+
 
 $\lambda = wavelength$
-
 $h  =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
 
 $p =$ $momentum$ $of$ $particle$

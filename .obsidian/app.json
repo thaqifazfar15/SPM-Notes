@@ -4,5 +4,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": true,
-  "livePreview": false
+  "livePreview": false,
+  "spellcheck": true
 }

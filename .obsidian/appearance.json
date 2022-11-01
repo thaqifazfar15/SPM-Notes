@@ -8,5 +8,6 @@
   "textFontFamily": "Inter",
   "enabledCssSnippets": [
     "big-math"
-  ]
+  ],
+  "baseFontSizeAction": true
 }
