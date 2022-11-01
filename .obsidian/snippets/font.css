@@ -1,0 +1,8 @@
+strong .cm-strong {
+    font-weight: 800;
+color: rgb(188, 32, 79)!important;
+}
+
+i, em, span.cm-em {
+color: #3f4f6f; 
+}
