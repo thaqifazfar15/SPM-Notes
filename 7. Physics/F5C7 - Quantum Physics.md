@@ -2,7 +2,9 @@
 ## 1. Quantum Theory of Light
 
 #### i. Quantum of Energy
-
+```
+$$H \propto f$$
+```
 $$ H \propto f $$
 $$ H = hf $$
 Where, 
