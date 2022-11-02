@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Files/Daily Notes/02-11-2022.md",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "7. Physics/F5C7 - Quantum Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md"
+                "file": "7. Physics/F5C7 - Quantum Physics.md"
               }
             }
           },
@@ -160,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3277cc031f3091f8",
+  "active": "f4075a5995428277",
   "lastOpenFiles": [
-    "0. Files/Daily Notes/02-11-2022.md",
-    "6. AddMath/F4C7 - Coordinate Geometry.md",
     "6. AddMath/0. Important Notes.md",
+    "6. AddMath/F4C7 - Coordinate Geometry.md",
     "7. Physics/F5C7 - Quantum Physics.md",
+    "0. Files/Daily Notes/02-11-2022.md",
+    "README.md",
+    "7. Physics/F4C5 - Waves.md",
     "Templates/3. Information Template.md",
     "Templates/2. Formula Template.md",
     "Templates/0. (F?C?-Chapter?).md",
-    "Templates/1. Daily Notes Template.md",
-    "2022-11-02.md",
-    "Templates/1. Exercise Link.md"
+    "Templates/1. Daily Notes Template.md"
   ]
 }
