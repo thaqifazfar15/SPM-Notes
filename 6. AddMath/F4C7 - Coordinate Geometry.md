@@ -37,6 +37,15 @@ $$x=\frac{nx_1+mx_{2}}{{m+n}}$$
 $$y = \frac{ny_{1}+my_{2}}{{m+n}}$$
 Just need to use either one.
 ``` 
+
+
+```ad-note
+title: #### Info: 
+collapse: open
+icon:info-circle
+
+$formula\:or\:definition$ 
+```
 ---
 
 ## 2. Parallel Lines and Perpendicular Lines
@@ -83,7 +92,11 @@ y = -3/4x + 7.5 | 2 < x < 6 | BLACK
 ```
 $$Area = \frac{1}{2}\:\begin{vmatrix}   x_{1} & x_{2} & x_{3} & x_{1}\\ y_{1} & y_{2} & y_{3} & y_{1}   \end{vmatrix}$$
 
-$$Area = \frac{1}{2}\:\begin{vmatrix} \:(x_1y_2+x_2y_3+x_3y_{1)\:-\:\:} \end{vmatrix}$$
+$$Area = \frac{1}{2}\:\begin{vmatrix} \:(x_1y_2+x_2y_3+x_3y_1)\:-\:(x_2y_1+x_3y_2+x_1y_3)\:\end{vmatrix}$$
+
+The coordinates of vertices are arranged **anticlockwise.**
+
+This formula can also used to find the **area of polygon with n sides.**
 ```` 
 ---
 
