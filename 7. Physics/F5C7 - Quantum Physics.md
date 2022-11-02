@@ -1,7 +1,7 @@
 
 ## 1. Quantum Theory of Light
 
-| Types of Waves | Acronym |
+| **Types of Waves** | **Acronym** |
 |---|---|
 | Radio Waves | Radi |
 | Microwave | May |
@@ -86,14 +86,14 @@ $1\:eV = 1.60 \times 10^{-19}\:J$
 ```ad-note
 title: #### Photoelectric Effect Definition
 collapse: open
-iconbook
+icon:book
 color: 188, 32, 79
 
 When **electrons is emitted** from a metal, after it surface it illuminated by a light at a **certain frequency.**
 
-The $\uparrow$ higher the frequency of light, the $\uparrow$ higher the kinetic energy of the photoelectrons emitted.
+The *$\uparrow$ higher the frequency *of light, the *$\uparrow$ higher the kinetic energy* of the photoelectrons emitted.
 
-The $\uparrow$ higher the intensity of light, the $\uparrow$ higher the number of electrons.
+The *$\uparrow$ higher the intensity* of light, the *$\uparrow$ higher the electrons* number.
 
 Thus, an increase intensity of light does not increase the $K_e$ of photoelectrons.
 
@@ -102,3 +102,17 @@ Thus, an increase intensity of light does not increase the $K_e$ of photoelectro
 ---
 
 ## 3. Einstein's Photoelectric Theory
+
+```ad-note
+title: #### Calculate The Kinetic Energy of Photoelectron
+collapse: open
+icon:calculator
+color: 188, 32, 79
+
+For the electrons on the metal surface, its $\,K_e\,$ is maximum,
+$$ $$
+$$E = W + K_{max}$$
+$$hf = W + \frac{1}{2}{mv^2}_{max}$$
+
+
+```
