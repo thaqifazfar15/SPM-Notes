@@ -26,36 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "d5ad01ec736b76cf"
+            }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "5c0d7fc75db0ad10",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9df7a796ecf55aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. AddMath/0. Important Notes.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "d5ad01ec736b76cf"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md"
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
               }
             }
           },
@@ -183,9 +162,9 @@
   },
   "active": "32b187273f42ea3c",
   "lastOpenFiles": [
+    "6. AddMath/0. Important Notes.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
     "7. Physics/F5C7 - Quantum Physics.md",
-    "6. AddMath/0. Important Notes.md",
     "0. Files/Daily Notes/02-11-2022.md",
     "Templates/3. Information Template.md",
     "Templates/2. Formula Template.md",
