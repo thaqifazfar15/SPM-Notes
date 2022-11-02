@@ -110,9 +110,25 @@ icon:calculator
 color: 188, 32, 79
 
 For the electrons on the metal surface, its $\,K_e\,$ is maximum,
-$$ $$
+$$\:$$
 $$E = W + K_{max}$$
 $$hf = W + \frac{1}{2}{mv^2}_{max}$$
+$$\frac{1}{2}{mv^{2}_{max}}\! = hf - W$$
+$$\:$$
+```
 
+```ad-note
+title: #### Work Function, $W$
+collapse: open
+icon:info-circle
 
+The ***minimum amount of energy*** required to release a photolectron.
+$$\:$$
+$$W=hf_0$$
+
+Where,
+
+$h\; =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
+
+$f_0\:=$ $threshold\:frequency$
 ```
