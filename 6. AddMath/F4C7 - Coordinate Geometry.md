@@ -9,11 +9,17 @@ color: 188, 32, 79
 $$P(x,y) = (\frac{nx_1+mx_{2}}{{m+n}}, \frac{ny_{1}+my_{2}}{{m+n}})$$ 
 
 ```desmos-graph
-y = x - 1 | -3 < y < 4 | #808080
-y = -3 | dashed | -2 < x < 5 | BLUE
-x = 5 | dashed | -3 < y < 4 | BLUE
+y = x - 1 | -3 < y < 4 | BLACK
+y = -3 | dashed | -2 < x < 2 | BLUE
+x = 2 | dashed | -3 < y < 1 | BLUE
+y = 1 | dashed | 2 < x < 5 | BLUE
+x = 5 | dashed | 1 < y < 4 | BLUE
+(2,1) | label: P(x,y)
+(-2,-3) | label: A(x1,y1)
+(5,4) | label: B(x2,y2)
+(0,-1) | label: m | cross
+(3.5,2.5) | label: n | cross
 ```
-
 ````
 ---
 
