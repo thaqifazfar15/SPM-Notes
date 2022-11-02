@@ -7,11 +7,11 @@
 | Microwave | May |
 | Infrared Radiation | I |
 | Visible Light | See |
-| Ultraviolet Radioation | Ur |
+| Ultraviolet Radiation | Ur |
 | X-Rays | X |
 | Gamma Rays | Girlfriend |
 
-Going down the tables, ***frequency (Hz) is increasing ***but wavelength (m) is decreasing.
+Going down the tables, *frequency (Hz) is increasing*  but *wavelength (m) is decreasing*.
 
 #### i. Quantum of Energy
 

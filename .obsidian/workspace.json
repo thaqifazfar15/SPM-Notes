@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "a64981444575bb39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/0. (F?C?-Chapter).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "tag:#quizizz",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/0. (F?C?-Chapter).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/0. (F?C?-Chapter).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md"
+                "file": "Templates/0. (F?C?-Chapter).md"
               }
             }
           },
@@ -138,21 +152,23 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "0ba284f18e698f90",
+  "active": "a64981444575bb39",
   "lastOpenFiles": [
-    "2022-11-01.md",
     "7. Physics/F5C7 - Quantum Physics.md",
+    "Templates/0. (F?C?-Chapter).md",
+    "2022-11-02.md",
+    "2022-11-01.md",
+    "README.md",
     "Untitled.md",
     "Untitled 1.md",
     "2. Sejarah/i. Exercise Link.md",
-    "README.md",
     "().md",
     "ii. T4 Sejarah.md"
   ]
