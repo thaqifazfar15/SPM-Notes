@@ -26,11 +26,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter).md",
+                "file": "Templates/0. (F?C?-Chapter?).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
+            }
+          },
+          {
+            "id": "4638e31d60da8253",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -100,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter).md",
+                "file": "Templates/0. (F?C?-Chapter?).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter).md",
+                "file": "Templates/0. (F?C?-Chapter?).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter).md"
+                "file": "Templates/0. (F?C?-Chapter?).md"
               }
             }
           },
@@ -157,16 +165,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a64981444575bb39",
   "lastOpenFiles": [
     "7. Physics/F5C7 - Quantum Physics.md",
-    "Templates/0. (F?C?-Chapter).md",
+    "3. Mathemathics/Untitled.md",
+    "Templates/0. (F?C?-Chapter?).md",
     "2022-11-02.md",
     "2022-11-01.md",
     "README.md",
-    "Untitled.md",
     "Untitled 1.md",
     "2. Sejarah/i. Exercise Link.md",
     "().md",
