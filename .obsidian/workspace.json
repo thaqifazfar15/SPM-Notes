@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md"
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "f4075a5995428277",
   "lastOpenFiles": [
+    "7. Physics/F5C7 - Quantum Physics.md",
     "6. AddMath/0. Important Notes.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
-    "7. Physics/F5C7 - Quantum Physics.md",
     "0. Files/Daily Notes/02-11-2022.md",
     "README.md",
     "7. Physics/F4C5 - Waves.md",
