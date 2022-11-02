@@ -29,9 +29,9 @@ icon:calculator
 color: 188, 32, 79
 
 $$x=\frac{nx_1+mx_{2}}{{m+n}}$$
-u
+
 $$y = \frac{ny_{1}+my_{2}}{{m+n}}$$
-Where, (definition)
+Just need to use either one.
 ``` 
 ---
 

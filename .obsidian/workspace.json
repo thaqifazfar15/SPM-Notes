@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
+                "file": "6. AddMath/0. Important Notes.md"
               }
             }
           },
@@ -167,11 +167,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b88fe1f9b200479",
+  "active": "ab29ebd54bda976c",
   "lastOpenFiles": [
+    "6. AddMath/F4C7 - Coordinate Geometry.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "6. AddMath/0. Important Notes.md",
-    "6. AddMath/F4C7 - Coordinate Geometry.md",
     "0. Files/Daily Notes/02-11-2022.md",
     "README.md",
     "7. Physics/F4C5 - Waves.md",
