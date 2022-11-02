@@ -14,11 +14,46 @@
               "type": "markdown",
               "state": {
                 "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
+          },
+          {
+            "id": "32b187273f42ea3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. AddMath/0. Important Notes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "d5ad01ec736b76cf"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5c0d7fc75db0ad10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9df7a796ecf55aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. AddMath/0. Important Notes.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "d5ad01ec736b76cf"
           }
         ]
       }
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "6. AddMath/0. Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
+                "file": "6. AddMath/0. Important Notes.md"
               }
             }
           },
@@ -146,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4075a5995428277",
+  "active": "9df7a796ecf55aff",
   "lastOpenFiles": [
-    "0. Files/Daily Notes/02-11-2022.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
+    "6. AddMath/0. Important Notes.md",
+    "0. Files/Daily Notes/02-11-2022.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "Templates/3. Information Template.md",
     "Templates/2. Formula Template.md",
     "Templates/0. (F?C?-Chapter?).md",
     "Templates/1. Daily Notes Template.md",
     "2022-11-02.md",
-    "Templates/1. Exercise Link.md",
-    "3. Mathemathics/Untitled.md"
+    "Templates/1. Exercise Link.md"
   ]
 }
