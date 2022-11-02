@@ -4,44 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "bfdb6633ceafa7fa",
+        "id": "3c31216df3b12d64",
         "type": "tabs",
-        "dimension": 44.53466583385384,
         "children": [
           {
-            "id": "0ba284f18e698f90",
+            "id": "b2c8924db6260d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/2. Formula Template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "15032541d5069194"
+            "group": "d7701480650b484c"
           }
         ]
       },
       {
-        "id": "5de386f1629cda4d",
+        "id": "6afd41fd0809e037",
         "type": "tabs",
-        "dimension": 55.465334166146164,
         "children": [
           {
-            "id": "3a1819bcbd09ed3a",
+            "id": "72365710e3681f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/2. Formula Template.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "15032541d5069194"
+            "group": "d7701480650b484c"
           }
         ]
       }
@@ -109,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/2. Formula Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md",
+                "file": "Templates/2. Formula Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F5C7 - Quantum Physics.md"
+                "file": "Templates/2. Formula Template.md"
               }
             }
           },
@@ -169,15 +167,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ba284f18e698f90",
+  "active": "b2c8924db6260d2a",
   "lastOpenFiles": [
     "Templates/0. (F?C?-Chapter?).md",
+    "Templates/2. Formula Template.md",
+    "7. Physics/F5C7 - Quantum Physics.md",
     "0. Files/Daily Notes/02-11-2022.md",
     "Templates/1. Daily Notes Template.md",
     "2022-11-02.md",
     "Templates/1. Exercise Link.md",
-    "Untitled.md",
-    "7. Physics/F5C7 - Quantum Physics.md",
     "3. Mathemathics/Untitled.md",
     "2022-11-01.md",
     "README.md"

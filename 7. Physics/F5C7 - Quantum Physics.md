@@ -39,7 +39,7 @@ $$\:$$
 #### ii. Wave-Particle Duality
 
 ```ad-note
-title: #### Louis de Broglie Wavelength
+title: #### de Broglie's Hypothesis
 collapse: open
 icon:calculator
 color: 188, 32, 79
@@ -131,4 +131,6 @@ Where,
 $h\; =$ $Planck's$ $constant$ ($6.63\times10^{-34}J s$)
 
 $f_0\:=$ $threshold\:frequency$
+
+The higher the work function, the shorter the maximum wavelength required to produce ***photoelectric current.***
 ```
