@@ -37,7 +37,7 @@ Just need to use either one.
 
 ## 2. Parallel Lines and Perpendicular Lines
 
-```ad-note (formula-notes?)
+```ad-note 
 title: #### Find the Gradient, $m$
 collapse: open 
 icon:calculator
@@ -46,7 +46,7 @@ color: 188, 32, 79
 $$Gradient, m = \frac{{y_2-y_1}}{{x_2-x_{1}}}$$
 ``` 
 
-```ad-note (formula-notes?)
+```ad-note 
 title: #### Gradient of Perpendicular Lines
 collapse: open 
 icon:calculator
@@ -57,6 +57,19 @@ $$m_{1}m_{2}= -1$$
 ---
 
 ## 3. Areas of Polygons
+
+````ad-note 
+title: #### Find the Area of Triangles
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+```desmos-graph
+y = 2x + 2 | -2 < x < 2 | BLACK
+y = 5/8x - 0.75 | -2 < x < 6 | BLACK
+y = -3/4x + 7.25 | 2 < x < 6 | BLACK
+```
+```` 
 ---
 
 ## 4. Equations of Loci
