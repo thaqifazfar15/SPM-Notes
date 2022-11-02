@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "5. Pendidikan Islam/0. Teknik Menjawab.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "5. Pendidikan Islam/0. Teknik Menjawab.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "5. Pendidikan Islam/0. Teknik Menjawab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md",
+                "file": "5. Pendidikan Islam/0. Teknik Menjawab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AddMath/0. Important Notes.md"
+                "file": "5. Pendidikan Islam/0. Teknik Menjawab.md"
               }
             }
           },
@@ -168,8 +168,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "243cc99e67077b03",
+  "active": "8a45d4fba95e49d3",
   "lastOpenFiles": [
+    "6. AddMath/0. Important Notes.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
     "5. Pendidikan Islam/0. Teknik Menjawab.md",
     "5. Pendidikan Islam/1. Chapter Target.md",
@@ -178,7 +179,6 @@
     "2. Sejarah/0. Exercise Link.md",
     "Templates/2. Formula Template.md",
     "7. Physics/F5C7 - Quantum Physics.md",
-    "Templates/3. Information Template.md",
-    "6. AddMath/0. Important Notes.md"
+    "Templates/3. Information Template.md"
   ]
 }
