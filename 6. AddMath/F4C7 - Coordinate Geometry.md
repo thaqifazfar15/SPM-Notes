@@ -1,6 +1,6 @@
 ## 1. Divisor of a Line Segment
 
-```ad-note (formula-notes?)
+````ad-note (formula-notes?)
 title: #### Find the Coordinates of point $P(x,y)$ between point $A(x_1,y_1)$ and $B(x_2,y_2)$ in the ratio $m:n$
 collapse: open 
 icon:calculator
@@ -8,7 +8,13 @@ color: 188, 32, 79
 
 $$P(x,y) = (\frac{nx_1+mx_{2}}{{m+n}}, \frac{ny_{1}+my_{2}}{{m+n}})$$ 
 
-``` 
+```desmos-graph
+y = x - 1 | -3 < y < 4 | #808080
+y = -3 | dashed | -2 < x < 5 | BLUE
+x = 5 | dashed | -3 < y < 4 | BLUE
+```
+
+````
 ---
 
 ## 2. Parallel Lines and Perpendicular Lines
