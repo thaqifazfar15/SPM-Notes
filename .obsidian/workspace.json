@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "a64981444575bb39",
+            "id": "7b58e737d9494b4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,15 +34,20 @@
             }
           },
           {
-            "id": "4638e31d60da8253",
+            "id": "395e6134f31ca921",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Files/Daily Notes/02-11-2022.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter?).md",
+                "file": "0. Files/Daily Notes/02-11-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter?).md",
+                "file": "0. Files/Daily Notes/02-11-2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/0. (F?C?-Chapter?).md"
+                "file": "0. Files/Daily Notes/02-11-2022.md"
               }
             }
           },
@@ -168,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a64981444575bb39",
+  "active": "395e6134f31ca921",
   "lastOpenFiles": [
+    "Templates/1. Daily Notes Template.md",
+    "2022-11-02.md",
+    "Templates/1. Exercise Link.md",
+    "Untitled.md",
+    "Templates/0. (F?C?-Chapter?).md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "3. Mathemathics/Untitled.md",
-    "Templates/0. (F?C?-Chapter?).md",
-    "2022-11-02.md",
     "2022-11-01.md",
     "README.md",
-    "Untitled 1.md",
-    "2. Sejarah/i. Exercise Link.md",
-    "().md",
-    "ii. T4 Sejarah.md"
+    "2. Sejarah/i. Exercise Link.md"
   ]
 }

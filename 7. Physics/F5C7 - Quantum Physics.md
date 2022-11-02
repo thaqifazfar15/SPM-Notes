@@ -36,8 +36,8 @@ $$H=\frac{hc}{\lambda}$$
 $$\:$$
 ```
 
-
 #### ii. Wave-Particle Duality
+
 ```ad-note
 title: #### Louis de Broglie Wavelength
 collapse: open
