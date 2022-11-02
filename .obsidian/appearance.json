@@ -10,5 +10,6 @@
     "big-math",
     "font"
   ],
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "baseFontSize": 17
 }
