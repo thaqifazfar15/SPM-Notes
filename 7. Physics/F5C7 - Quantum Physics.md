@@ -86,12 +86,18 @@ $1\:eV = 1.60 \times 10^{-19}\:J$
 ```ad-note
 title: #### Photoelectric Effect Definition
 collapse: open
-icon:calculator
+iconbook
 color: 188, 32, 79
 
 When **electrons is emitted** from a metal, after it surface it illuminated by a light at a **certain frequency.**
 
+The $\uparrow$ higher the frequency of light, the $\uparrow$ higher the kinetic energy of the photoelectrons emitted.
 
+The $\uparrow$ higher the intensity of light, the $\uparrow$ higher the number of electrons.
+
+Thus, an increase intensity of light does not increase the $K_e$ of photoelectrons.
+
+**The threshold frequency, $f_0$** is the minimum frequency required to produce photolectric effect on a metal.
 ```
 ---
 
