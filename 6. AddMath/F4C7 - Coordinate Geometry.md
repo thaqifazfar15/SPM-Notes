@@ -6,7 +6,7 @@ collapse: open
 icon:calculator
 color: 188, 32, 79
 
-$$main\:formula$$ 
+$$P(x,y) = (\frac{nx_1+mx_{2}}{{m+n}}, \frac{ny_{1}+my_{2}}{{m+n}})$$ 
 
 Where, (definition)
 ``` 
