@@ -6,7 +6,7 @@ collapse: open
 icon:calculator
 color: 188, 32, 79
 
-$$P(x,y) = (\frac{nx_1+mx_{2}}{{m+n}}, \frac{ny_{1}+my_{2}}{{m+n}})$$ 
+$$P(x,y) = (\frac{nx_1+mx_{2}}{{m+n}}, \frac{ny_{1}+my_{2}}{{m+n}})$$
 
 ```desmos-graph
 y = x - 1 | -3 < y < 4 | BLACK
@@ -21,6 +21,18 @@ x = 5 | dashed | 1 < y < 4 | BLUE
 (3.5,2.5) | label: n | cross
 ```
 ````
+
+```ad-note  
+title: #### Find the Ratio in $\:m:n\:$ when given point P, A and B
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+$$x=\frac{nx_1+mx_{2}}{{m+n}}$$
+u
+$$y = \frac{ny_{1}+my_{2}}{{m+n}}$$
+Where, (definition)
+``` 
 ---
 
 ## 2. Parallel Lines and Perpendicular Lines
