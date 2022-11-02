@@ -27,7 +27,7 @@ x = 5 | dashed | 1 < y < 4 | BLUE
 ````
 
 ```ad-note  
-title: #### Find the Ratio in $\:m:n\:$ when given point P, A and B
+title: #### Find the Ratio, $\:m:n\:$ when given point P, A and B
 collapse: open 
 icon:calculator
 color: 188, 32, 79
@@ -40,11 +40,11 @@ Just need to use either one.
 
 
 ```ad-note
-title: #### Info: 
+title: #### Info: Find the midpoint between 2 points
 collapse: open
 icon:info-circle
 
-$formula\:or\:definition$ 
+$$Coordinates\:of\: Midpoint= (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$
 ```
 ---
 
