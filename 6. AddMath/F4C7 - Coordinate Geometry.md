@@ -101,3 +101,30 @@ This formula can also used to find the **area of polygon with n sides.**
 ---
 
 ## 4. Equations of Loci
+
+Locus of a moving points is the path taken by the point subject to certain conditions.
+
+#### i. Determining the Equations of Locus
+
+````ad-note 
+title: #### Locus of a Moving Point from a FIxed  Point is Constant
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+```desmos-graph
+top = 10
+right = 9
+left = -9
+bottom = -10
+---
+x^2+y^2 = 4^2
+```
+$$Area = \frac{1}{2}\:\begin{vmatrix}   x_{1} & x_{2} & x_{3} & x_{1}\\ y_{1} & y_{2} & y_{3} & y_{1}   \end{vmatrix}$$
+
+$$Area = \frac{1}{2}\:\begin{vmatrix} \:(x_1y_2+x_2y_3+x_3y_1)\:-\:(x_2y_1+x_3y_2+x_1y_3)\:\end{vmatrix}$$
+
+The coordinates of vertices are arranged **anticlockwise.**
+
+This formula can also used to find the **area of polygon with n sides.**
+```` 
