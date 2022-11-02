@@ -81,6 +81,9 @@ y = -3/4x + 7.5 | 2 < x < 6 | BLACK
 (6,3) | label: B(x2,y2)
 (2,6) | label: C(x3,y3)
 ```
+$$Area = \frac{1}{2}\:\begin{vmatrix}   x_{1} & x_{2} & x_{3} & x_{1}\\ y_{1} & y_{2} & y_{3} & y_{1}   \end{vmatrix}$$
+
+$$Area = \frac{1}{2}\:\begin{vmatrix} \:(x_1y_2+x_2y_3+x_3y_{1)\:-\:\:} \end{vmatrix}$$
 ```` 
 ---
 
