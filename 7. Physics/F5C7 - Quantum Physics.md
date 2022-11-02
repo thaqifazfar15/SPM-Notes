@@ -11,7 +11,7 @@
 | X-Rays | X |
 | Gamma Rays | Girlfriend |
 
-Going down the tables, *frequency (Hz) is increasing*  but *wavelength (m) is decreasing*.
+Going down the tables, *frequency (Hz) is increasing*  but *wavelength (m) is decreasing.*
 
 #### i. Quantum of Energy
 
@@ -83,7 +83,16 @@ $1\:eV = 1.60 \times 10^{-19}\:J$
 ---
 ## 2. Photoelectric Effect
 
+```ad-note
+title: #### Photoelectric Effect Definition
+collapse: open
+icon:calculator
+color: 188, 32, 79
 
+When **electrons is emitted** from a metal, after it surface it illuminated by a light at a **certain frequency.**
+
+
+```
 ---
 
 ## 3. Einstein's Photoelectric Theory
