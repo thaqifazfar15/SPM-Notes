@@ -1,12 +1,21 @@
 ## 1. Divisor of a Line Segment
-**everything with (.....?) is a template string, and must be changed**
-#### i. (section?)
 
-#### ii. (Section?)
+```ad-note (formula-notes?)
+title: #### Find the Coordinates of point $P(x,y)$ between point $A(x_1,y_1)$ and $B(x_2,y_2)$
+collapse: open 
+icon:calculator
+color: 188, 32, 79
 
+$$main\:formula$$ 
+
+Where, (definition)
+``` 
 ---
-## 2. (sub chapter?)
 
+## 2. Parallel Lines and Perpendicular Lines
 ---
 
-## 3. (sub chapter?)
+## 3. Areas of Polygons
+---
+
+## 4. Equations of Loci
