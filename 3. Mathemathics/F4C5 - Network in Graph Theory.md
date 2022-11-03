@@ -13,6 +13,8 @@ collapse: open
 icon:calculator
 color: 188, 32, 79
 
+Degree is the number of edges which has a vertex as an endpoint. A loop contribute to 2 degree.
+
 $$Degree= 2\times\:Total\:Edges$$
 ``` 
 
@@ -22,6 +24,6 @@ title: #### Tree Graph
 collapse: open
 icon:info-circle
 
-A graph where each 2 vertices are connected by 1 edges.
-$$Edges\:of\:Tree=Total\:Vertices-1$$
+A graph where each ***2 vertices are connected by 1 edges.***
+$$Edges\:of\:a\:Tree=Total\:Vertices-1$$
 ```
