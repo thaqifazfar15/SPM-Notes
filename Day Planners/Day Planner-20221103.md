@@ -3,7 +3,7 @@
 
 - [x] 07:00 Morning
 - [x] 08:00 School
-- [ ] 09:20 Gaming
+- [x] 09:20 Gaming
 - [ ] 10:00 BREAK
 - [ ] 10:30 School
 - [ ] 11:50 Revision: Lorep Ipsum
