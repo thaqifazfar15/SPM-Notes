@@ -150,7 +150,7 @@ $${(x-x_1)^{2}-(y-y_1)^{2}}=r^{2}\:,where\:r>0$$
 ```` 
 
 ````ad-note 
-title: #### Ratio of Distance of Moving Point from Two Fixed Point is Constant
+title: #### Ratio of Distance of Moving Point from Two Fixed Point
 collapse: open 
 icon:calculator
 color: 188, 32, 79
