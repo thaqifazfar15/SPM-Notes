@@ -141,7 +141,7 @@ y = x | BLACK | 0 < x < 2.8
 (1.5,1.5) | BLACK | Cross | label: r
 (2.8,2.8) | label: P(x,y) | BLACK
 ```
-$$PA = r$$
-$$\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}=r$$
+$$\frac{PA}{PB} = \frac{m}{n}$$
+$$\frac{\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}}{\sqrt{(x-x_2)^{2}-(y-y_{2)^{2}}}}=r$$
 $${(x-x_1)^{2}-(y-y_1)^{2}}=r^{2}\:,where\:r>0$$
 ```` 
