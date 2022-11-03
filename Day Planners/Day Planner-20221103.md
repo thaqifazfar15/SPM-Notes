@@ -14,7 +14,7 @@
 A section of the day dedicated to study.
 
 - [ ] 13:00
-- [ ] 14:00 Study:
+- [x] 14:00 Study:
 - [ ] 16:00 BREAK
 - [ ] 16:30 Gaming
 - [ ] 17:30 BREAK
