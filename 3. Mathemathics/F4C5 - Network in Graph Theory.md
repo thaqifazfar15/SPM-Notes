@@ -22,6 +22,6 @@ title: #### Tree Graph
 collapse: open
 icon:info-circle
 
-A graph where 
-$formula\:or\:definition$ 
+A graph where each 2 vertices are connected by 1 edges.
+$$Edges\:of\:Tree=Total\:Vertices-1$$
 ```
