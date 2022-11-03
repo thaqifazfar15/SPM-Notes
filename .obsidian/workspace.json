@@ -16,7 +16,7 @@
                 "file": "Day Planners/Day Planner-20221103.md",
                 "mode": "source",
                 "backlinks": false,
-                "source": true
+                "source": false
               }
             }
           }
@@ -79,6 +79,7 @@
       {
         "id": "268b63c126fa1c3d",
         "type": "tabs",
+        "dimension": 22.12962962962963,
         "children": [
           {
             "id": "0541d159c9eb324e",
@@ -144,6 +145,7 @@
       {
         "id": "58ea1327e0a2362b",
         "type": "tabs",
+        "dimension": 77.87037037037037,
         "children": [
           {
             "id": "ef86146f6e8bee81",
