@@ -141,7 +141,9 @@ y = 2.5x + 10 | BLACK | -6 < x < -4
 (-6,-5) | BLACK | label: A(x1,y1)
 y = 0.75x - 0.5 | BLACK | -6 < x < -2
 (-2,-2) | label: B(x2,y2) | BLACK
-y = -x - 2.5 | BLACK | -6 < x < -2
+y = -x - 4 | BLACK | -4 < x < -2
+(-3,-1) | cross | label: n | BLACK
+(-5,-2.5) | cross | label: m | BLACK
 ```
 $$\frac{PA}{PB} = \frac{m}{n}$$
 $$\frac{\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}}{\sqrt{(x-x_2)^{2}-(y-y_{2)^{2}}}}=\frac{m}{n}$$
