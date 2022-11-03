@@ -23,6 +23,6 @@ A section of the day dedicated to study.
 ### Night Review
 
 - [x] 21:00 Tuisyen Math
-- [ ] 22:30 BREAK
+- [x] 22:30 BREAK
 - [ ] 22:45 Review: [[F4C7 - Coordinate Geometry]]
 - [ ] 23:00 

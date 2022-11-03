@@ -4,56 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8893743fe6fa8d64",
+        "id": "497e35986bdd1ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "c3bef0f3647e374d",
+            "id": "363347d4bfdac800",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Mathemathics/F4C5 - Network in Graph Theory.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
-          },
-          {
-            "id": "77b37947ef973407",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Mathemathics/0. MOC Mathemathics.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "a19e7d50a595309f"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "be58d346501b3cd3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f26b636f78b683b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Mathemathics/0. MOC Mathemathics.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "a19e7d50a595309f"
           }
         ]
       }
@@ -122,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Mathemathics/0. MOC Mathemathics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Mathemathics/0. MOC Mathemathics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3. Mathemathics/0. MOC Mathemathics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,17 +152,17 @@
     "direction": "horizontal",
     "width": 294.5
   },
-  "active": "77b37947ef973407",
+  "active": "363347d4bfdac800",
   "lastOpenFiles": [
-    "3. Mathemathics/F4C5 - Network in Graph Theory.md",
-    "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md",
-    "6. AddMath/F4C7 - Coordinate Geometry.md",
-    "3. Mathemathics/0. MOC Mathemathics.md",
+    "README.md",
+    "0. Files/Daily Notes/03-11-2022.md",
+    "0. Files/Daily Notes/02-11-2022.md",
+    "8. Biology/0. MOC Biology.md",
+    "8. Biology/1. Important Notes.md",
     "7. Physics/0. MOC Physics.md",
     "6. AddMath/0. MOC AddMath.md",
-    "6. AddMath/1. Important Notes.md",
-    "Day Planners/Day Planner-20221103.md",
-    "8. Biology/1. Important Notes.md",
-    "7. Physics/F5C7 - Quantum Physics.md"
+    "5. Pendidikan Islam/0. MOC Pendidikan Islam.md",
+    "3. Mathemathics/0. MOC Mathemathics.md",
+    "2. Sejarah/0. MOC Sejarah.md"
   ]
 }
