@@ -13,16 +13,16 @@
 
 A section of the day dedicated to study.
 
-- [ ] 13:00
+- [x] 13:00
 - [x] 14:00 Study:
 - [x] 16:00 BREAK
-- [ ] 16:30 Gaming
-- [ ] 17:30 BREAK
+- [x] 16:30 Gaming
+- [x] 17:30 BREAK
 - [ ] 18:00 Dinner
 
 ### Night Review
 
-I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
-
-- [ ] 21:00
-- [ ] 23:00 END
+- [ ] 21:00 Tuisyen Math
+- [ ] 22:30 BREAK
+- [ ] 22:45 Review: [[F4C7 - Coordinate Geometry]]
+- [ ] 23:00 
