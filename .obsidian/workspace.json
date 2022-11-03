@@ -26,15 +26,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md",
+                "file": "3. Mathemathics/0. MOC Mathemathics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "a19e7d50a595309f"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "be58d346501b3cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f26b636f78b683b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Mathemathics/0. MOC Mathemathics.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "a19e7d50a595309f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md",
+                "file": "3. Mathemathics/0. MOC Mathemathics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md",
+                "file": "3. Mathemathics/0. MOC Mathemathics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md"
+                "file": "3. Mathemathics/0. MOC Mathemathics.md"
               }
             }
           },
