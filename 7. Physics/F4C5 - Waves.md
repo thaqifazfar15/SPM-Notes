@@ -11,7 +11,7 @@
 ## 3. Reflection of Waves
 
 ---
-## 4. Diffraction of Waves
+## 4. Refraction of Waves
 
 ---
 ## 5. Interference of Waves

@@ -107,7 +107,7 @@ Locus of a moving points is the path taken by the point subject to certain condi
 #### i. Determining the Equations of Locus
 
 ````ad-note 
-title: #### Locus of a Moving Point from a FIxed  Point is Constant
+title: #### Locus of a Moving Point from a **Fixed  Point** is Constant
 collapse: open 
 icon:calculator
 color: 188, 32, 79
@@ -122,5 +122,26 @@ y = x | BLACK | 0 < x < 2.8
 (2.8,2.8) | label: P(x,y) | BLACK
 ```
 $$PA = r$$
-$$\sqrt{(x-x_1)^{2-(y-y_1)^{2}=r^{2}\:,wherer>0$$
+$$\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}=r$$
+$${(x-x_1)^{2}-(y-y_1)^{2}}=r^{2}\:,where\:r>0$$
+```` 
+
+````ad-note 
+title: #### Ratio of Distance of Moving Point from Two Fixed Point is Constant
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+```desmos-graph
+left =  -9
+---
+x^2+y^2 = 4^2 | BLACK
+(0,0) | label: A(x1,y1) | BLACK
+y = x | BLACK | 0 < x < 2.8
+(1.5,1.5) | BLACK | Cross | label: r
+(2.8,2.8) | label: P(x,y) | BLACK
+```
+$$PA = r$$
+$$\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}=r$$
+$${(x-x_1)^{2}-(y-y_1)^{2}}=r^{2}\:,where\:r>0$$
 ```` 
