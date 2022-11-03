@@ -2,7 +2,7 @@
 ### Morning Prep
 
 - [x] 07:00 Morning
-- [ ] 08:00 School
+- [x] 08:00 School
 - [ ] 09:20 Gaming
 - [ ] 10:00 BREAK
 - [ ] 10:30 School
