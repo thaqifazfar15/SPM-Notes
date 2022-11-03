@@ -49,6 +49,16 @@ $$Coordinates\:of\: Midpoint= (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$
 ---
 
 ## 2. Parallel Lines and Perpendicular Lines
+#### Equations of Straight Lines
+
+```ad-note 
+title: #### Find the Gradient, $m$
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+$$Gradient, m = \frac{{y_2-y_1}}{{x_2-x_{1}}}$$
+``` 
 
 ```ad-note 
 title: #### Find the Gradient, $m$
@@ -66,7 +76,7 @@ icon:calculator
 color: 188, 32, 79
 
 $$m_{1}m_{2}= -1$$
-``` 
+```
 ---
 
 ## 3. Areas of Polygons

@@ -6,8 +6,8 @@
 - [x] 09:20 Gaming
 - [x] 10:00 BREAK
 - [x] 10:30 School
-- [ ] 11:50 Study: Equations of Loci
-- [ ] 12:30 BREAK
+- [x] 11:50 Study: Equations of Loci
+- [x] 12:30 BREAK
 
 ### Afternoon Session
 
