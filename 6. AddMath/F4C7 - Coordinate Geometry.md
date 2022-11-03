@@ -52,12 +52,17 @@ $$Coordinates\:of\: Midpoint= (\frac{x_1+x_2}{2},\frac{y_1+y_2}{2})$$
 #### Equations of Straight Lines
 
 ```ad-note 
-title: #### Find the Gradient, $m$
+title: #### Find the Equation of Lines
 collapse: open 
 icon:calculator
 color: 188, 32, 79
 
-$$Gradient, m = \frac{{y_2-y_1}}{{x_2-x_{1}}}$$
+- When $m$ and coordinates of one point is given.
+$$y-y_1=m(x-x_1)$$
+
+- When $x$-intercept and $y$-intercept are given. Where **$a$ is $x$-intercept** and **$b$ is $y$-intercept.**
+$${\frac{x}{a}}+{\frac{y}{b}}=1$$
+
 ``` 
 
 ```ad-note 
