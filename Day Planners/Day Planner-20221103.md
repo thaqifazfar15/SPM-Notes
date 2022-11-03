@@ -1,7 +1,7 @@
 ## Day Planner
 ### Morning Prep
 
-- [ ] 07:00
+- [x] 07:00 Morning
 - [ ] 08:00 School
 - [ ] 12:30 BREAK
 
@@ -9,20 +9,16 @@
 
 A section of the day dedicated to study.
 
-- [ ] 13:00 Reading
-    -  [ ] Article 1
-    -  [ ] Article 2
-    -  [ ] Article notes review
-- [ ] 12:25 BREAK
-- [ ] 12:30 Reading
-- [ ] 14:00 BREAK
+- [ ] 13:00
+- [ ] 14:00 Study:
+- [ ] 16:00 BREAK
+- [ ] 16:30 Study
+- [ ] 17:30 BREAK
+- [ ] 18:00 Dinner
 
 ### Night Review
 
 I use this time to review what I have done earlier in the day and complete any tasks to prepare for the next day.
 
--   15:00 Review notes and update daily note [20201103](app://obsidian.md/20201103)
--   15:45 Walk
--   16:30 Reading
--   17:20 Prep for tomorrow's meetings
--   18:00 END
+- [ ] 21:00
+- [ ] 23:00 END
