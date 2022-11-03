@@ -18,12 +18,11 @@ Degree is the number of edges which has a vertex as an endpoint. A loop contribu
 $$Degree= 2\times\:Total\:Edges$$
 ``` 
 
-
 ```ad-note
 title: #### Tree Graph
 collapse: open
 icon:info-circle
 
-A graph where each ***2 vertices are connected by 1 edges.***
+A graph where each ***2 vertices are connected by 1 edge.***
 $$Edges\:of\:a\:Tree=Total\:Vertices-1$$
 ```
