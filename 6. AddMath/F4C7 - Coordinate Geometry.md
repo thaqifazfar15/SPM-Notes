@@ -82,6 +82,14 @@ color: 188, 32, 79
 
 $$m_{1}m_{2}= -1$$
 ```
+
+```ad-note
+title: #### Info: Perpendicular Bisector Meaning
+collapse: open
+icon:info-circle
+
+$formula\:or\:definition$ 
+```
 ---
 
 ## 3. Areas of Polygons
