@@ -88,7 +88,7 @@ title: #### Info: Perpendicular Bisector Meaning
 collapse: open
 icon:info-circle
 
-$formula\:or\:definition$ 
+Perpendicular bisector is ***a line that passes through the midpoint*** between two points. 
 ```
 ---
 
