@@ -136,12 +136,14 @@ color: 188, 32, 79
 left =  -9
 ---
 x^2+y^2 = 4^2 | BLACK
-(0,0) | label: A(x1,y1) | BLACK
-y = x | BLACK | 0 < x < 2.8
-(1.5,1.5) | BLACK | Cross | label: r
-(2.8,2.8) | label: P(x,y) | BLACK
+(-4,0) | label: P(x,y) | BLACK
+y = 2.5x + 10 | BLACK | -6 < x < -4
+(-6,-5) | BLACK | label: A(x1,y1)
+y = 0.75x - 0.5 | BLACK | -6 < x < -2
+(-2,-2) | label: B(x2,y2) | BLACK
+y = -x - 2.5 | BLACK | -6 < x < -2
 ```
 $$\frac{PA}{PB} = \frac{m}{n}$$
-$$\frac{\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}}{\sqrt{(x-x_2)^{2}-(y-y_{2)^{2}}}}=r$$
-$${(x-x_1)^{2}-(y-y_1)^{2}}=r^{2}\:,where\:r>0$$
+$$\frac{\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}}{\sqrt{(x-x_2)^{2}-(y-y_{2)^{2}}}}=\frac{m}{n}$$
+$$\frac{{(x-x_1)^{2}-(y-y_1)^{2}}}{{(x-x_2)^{2}-(y-y_{2)^{2}}}}=\frac{m^2}{n^2}$$
 ```` 
