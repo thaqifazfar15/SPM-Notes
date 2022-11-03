@@ -113,18 +113,14 @@ icon:calculator
 color: 188, 32, 79
 
 ```desmos-graph
-top = 10
-right = 9
-left = -9
-bottom = -10
+left =  -9
 ---
-x^2+y^2 = 4^2
+x^2+y^2 = 4^2 | BLACK
+(0,0) | label: A(x1,y1) | BLACK
+y = x | BLACK | 0 < x < 2.8
+(1.5,1.5) | BLACK | Cross | label: r
+(2.8,2.8) | label: P(x,y) | BLACK
 ```
-$$Area = \frac{1}{2}\:\begin{vmatrix}   x_{1} & x_{2} & x_{3} & x_{1}\\ y_{1} & y_{2} & y_{3} & y_{1}   \end{vmatrix}$$
-
-$$Area = \frac{1}{2}\:\begin{vmatrix} \:(x_1y_2+x_2y_3+x_3y_1)\:-\:(x_2y_1+x_3y_2+x_1y_3)\:\end{vmatrix}$$
-
-The coordinates of vertices are arranged **anticlockwise.**
-
-This formula can also used to find the **area of polygon with n sides.**
+$$PA = r$$
+$$\sqrt{(x-x_1)^{2-(y-y_1)^{2}=r^{2}\:,wherer>0$$
 ```` 
