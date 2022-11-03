@@ -148,4 +148,6 @@ y = -x - 4 | BLACK | -4 < x < -2
 $$\frac{PA}{PB} = \frac{m}{n}$$
 $$\frac{\sqrt{(x-x_1)^{2}-(y-y_1)^{2}}}{\sqrt{(x-x_2)^{2}-(y-y_{2)^{2}}}}=\frac{m}{n}$$
 $$\frac{{(x-x_1)^{2}-(y-y_1)^{2}}}{{(x-x_2)^{2}-(y-y_{2)^{2}}}}=\frac{m^2}{n^2}$$
+
+When distance between two points are the same, **$\:m=n.$**
 ```` 

@@ -5,7 +5,7 @@
 - [x] 08:00 School
 - [x] 09:20 Gaming
 - [x] 10:00 BREAK
-- [ ] 10:30 School
+- [x] 10:30 School
 - [ ] 11:50 Study: Equations of Loci
 - [ ] 12:30 BREAK
 
