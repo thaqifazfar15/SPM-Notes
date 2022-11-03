@@ -1,4 +1,5 @@
-## Day Planner
+## Normal School Day
+---
 ### Morning Prep
 
 - [x] 07:00 Morning
@@ -8,7 +9,7 @@
 - [x] 10:30 School
 - [x] 11:50 Study: Equations of Loci
 - [x] 12:30 BREAK
-
+---
 ### Afternoon Session
 
 A section of the day dedicated to study.
@@ -19,7 +20,7 @@ A section of the day dedicated to study.
 - [x] 16:30 Gaming
 - [x] 17:30 BREAK
 - [x] 18:00 Dinner
-
+---
 ### Night Review
 
 - [x] 21:00 Tuisyen Math
