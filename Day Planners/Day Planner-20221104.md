@@ -16,8 +16,9 @@ A section of the day dedicated to study.
 
 - [x] 14:00 BREAK
 - [x] 14:30 Study: [[F4C5 - Waves]]
-- [ ] 16:00 BREAK
+- [x] 16:00 BREAK
 - [ ] 16:30 Gaming
+- [ ] 17:00 Study
 - [ ] 17:30 BREAK
 - [ ] 18:00 Dinner
 ---
@@ -25,5 +26,5 @@ A section of the day dedicated to study.
 
 - [ ] 21:00 Tuisyen Sejarah
 - [ ] 22:30 BREAK
-- [ ] 22:45 Review: ?
-- [ ] 23:00 END
+- [ ] 22:45 Do:Wave exercise
+- [ ] 24:00 END
