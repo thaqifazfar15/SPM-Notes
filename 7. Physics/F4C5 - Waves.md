@@ -43,7 +43,8 @@ An oscillating system that is displaced and then left to oscillate wihtout the a
 		- Loss energy due to stretching and compression of the vibrating particles in the system.
 #### ii. Resonance
 - When a **periodic force is applied** to an oscillating system **at its natural frequncy,** the oscillating system is said to be resonance.
-	1. System oscillates
+	1. System oscillates at its natural frequency.
+	2. System oscillates at maximum ampltudes.
 ---
 ## 3. Reflection of Waves
 

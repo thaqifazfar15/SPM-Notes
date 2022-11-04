@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "2. Sejarah/2. Exercise Link.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "2. Sejarah/2. Exercise Link.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "2. Sejarah/2. Exercise Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "2. Sejarah/2. Exercise Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md"
+                "file": "2. Sejarah/2. Exercise Link.md"
               }
             }
           },
@@ -185,15 +185,15 @@
   },
   "active": "cf1ac94e3698d3c6",
   "lastOpenFiles": [
+    "2. Sejarah/1. Chapter Target.md",
+    "7. Physics/F4C5 - Waves.md",
     "0. Files/Daily Notes/04-11-2022.md",
     "0. Files/Daily Notes/03-11-2022.md",
-    "7. Physics/F4C5 - Waves.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
     "2. Sejarah/0. MOC Sejarah.md",
     "3. Mathemathics/0. MOC Mathemathics.md",
     "3. Mathemathics/F4C5 - Network in Graph Theory.md",
-    "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md",
-    "8. Biology/1. Important Notes.md"
+    "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md"
   ]
 }
