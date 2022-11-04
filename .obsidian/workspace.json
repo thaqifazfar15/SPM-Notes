@@ -126,7 +126,7 @@
       {
         "id": "268b63c126fa1c3d",
         "type": "tabs",
-        "dimension": 22.12962962962963,
+        "dimension": 32.5,
         "children": [
           {
             "id": "0541d159c9eb324e",
@@ -135,7 +135,7 @@
               "type": "backlink",
               "state": {
                 "file": "7. Physics/F4C5 - Waves.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -187,12 +187,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "58ea1327e0a2362b",
         "type": "tabs",
-        "dimension": 77.87037037037037,
+        "dimension": 67.5,
         "children": [
           {
             "id": "ef86146f6e8bee81",
@@ -206,20 +206,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
-  "active": "09d8e28c5cdea55c",
+  "active": "6d625c64a0050919",
   "lastOpenFiles": [
-    "README.md",
+    "7. Physics/F5C7 - Quantum Physics.md",
+    "Day Planners/Day Planner-20221104.md",
     "7. Physics/F4C5 - Waves.md",
+    "README.md",
     "0. Files/Daily Notes/04-11-2022.md",
     "9. Chemistry/1. Important Notes.md",
     "8. Biology/1. Important Notes.md",
     "9. Chemistry/0. MOC Chemistry.md",
     "6. AddMath/1. Important Notes.md",
-    "7. Physics/F5C7 - Quantum Physics.md",
-    "2. Sejarah/2. Exercise Link.md",
-    "2. Sejarah/1. Chapter Target.md"
+    "2. Sejarah/2. Exercise Link.md"
   ]
 }

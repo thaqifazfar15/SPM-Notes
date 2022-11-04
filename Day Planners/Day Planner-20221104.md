@@ -23,7 +23,7 @@ A section of the day dedicated to study.
 ---
 ### Night Review
 
-- [ ] 21:00 Tuisyen ?
+- [ ] 21:00 Tuisyen Sejarah
 - [ ] 22:30 BREAK
 - [ ] 22:45 Review: ?
 - [ ] 23:00 END

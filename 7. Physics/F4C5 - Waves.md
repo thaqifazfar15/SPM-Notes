@@ -109,10 +109,11 @@ collapse: open
 icon:info-circle
 
 - Wavelength is the ***distance*** between ***crests to crests*** or ***throughs to throughs.***
-- 
+- When total distance of wave is given, to find wavelength you must divide total distance of wave by the number of crest to crest.
 ```
 ---
 ## 5. Interference of Waves
+
 
 ---
 ## 6. Electromagnetic Waves
