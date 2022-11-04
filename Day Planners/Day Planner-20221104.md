@@ -18,8 +18,8 @@ A section of the day dedicated to study.
 - [x] 14:30 Study: [[F4C5 - Waves]]
 - [x] 16:00 BREAK
 - [x] 16:30 Gaming
-- [ ] 17:00 Study
-- [ ] 17:30 BREAK
+- [x] 17:00 Study
+- [x] 17:30 BREAK
 - [ ] 18:00 Dinner
 ---
 ### Night Review

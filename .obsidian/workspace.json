@@ -8,28 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aca16a43168e68c1",
+            "id": "ce2de2656623383e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "Day Planners/Day Planner-20221104.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             }
-          },
-          {
-            "id": "ce2de2656623383e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20221104.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Day Planners/Day Planner-20221104.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/Day Planner-20221104.md"
+              }
             }
           },
           {
@@ -168,6 +163,7 @@
   },
   "active": "ce2de2656623383e",
   "lastOpenFiles": [
+    "0. Files/Daily Notes/04-11-2022.md",
     "7. Physics/F4C5 - Waves.md",
     "9. Chemistry/1. Important Notes.md",
     "Day Planners/Day Planner-20221104.md",
@@ -175,7 +171,6 @@
     "8. Biology/0. MOC Biology.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "README.md",
-    "0. Files/Daily Notes/04-11-2022.md",
     "9. Chemistry/0. MOC Chemistry.md",
     "6. AddMath/1. Important Notes.md"
   ]
