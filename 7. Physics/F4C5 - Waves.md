@@ -138,6 +138,27 @@ Diffraction of waves is **influenced by the size of slit and wavelength.**
 #### i. Principle of Superposition of Waves
 - When two waves overlap, the resultant displacement is the sum of the individual displacements of the two waves.
 
+#### ii. Interference with Coherent Source of Waves
+- Interference of waves is the **superposition of two** or more waves** from a coherent** source of waves.
+- Two sources of waves are coherent when the **frequency of both waves is the same** and the **phase different is constant.**
+#### iii. Types of Interference
+```ad-note
+title: #### Constructive Interference
+collapse: open
+icon:info-circle
 
+- Occurs when two crests/troughs are in superposition.
+
+$$Combined\:Displacement=A+A$$
+$$\r = 2A$$
+```
+
+```ad-note
+title: #### Destructive Interference
+collapse: open
+icon:info-circle
+
+$formula\:or\:definition$ 
+```
 ---
 ## 7. Electromagnetic Waves
