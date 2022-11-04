@@ -112,8 +112,19 @@ icon:info-circle
 - When total distance of wave is given, to find wavelength you must divide total distance of wave by the number of crest to crest.
 ```
 ---
-## 5. Interference of Waves
+## 5. Diffraction of Waves
+Diffraction of waves is the **spreading of waves** when the waves propagate through a slit or side of a barrier.
+
+Only amplitude and direction of propagation with change upon diffraction.
+
+1. Amplitude will decrease due to waves energy diverges and spread out to a wider region.
+- Direction of propagation will change from one direction to many directions because wavefronts spreads.
+
+Direction
+
+---
+## 6. Interference of Waves
 
 
 ---
-## 6. Electromagnetic Waves
+## 7. Electromagnetic Waves
