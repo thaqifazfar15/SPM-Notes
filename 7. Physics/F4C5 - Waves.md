@@ -1,6 +1,22 @@
 ## 1. Fundamentals of Waves
 
-#### i. (section?)
+#### i. Types of Waves
+
+```ad-note
+title: #### Transverse Waves
+collapse: open
+icon:info-circle
+
+$formula\:or\:definition$ 
+```
+
+```ad-note
+title: #### Longitudinal Waves
+collapse: open
+icon:info-circle
+
+$formula\:or\:definition$ 
+```
 
 #### ii. (Section?)
 
