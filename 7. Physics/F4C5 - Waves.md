@@ -18,6 +18,8 @@ icon:info-circle
 - Made up of consecutives ***compression*** and ***rarefactions.***
 ```
 
+#### i. Formula of Speed of Wave
+
 ```ad-note
 title: #### Calculate the Speed of Wave
 collapse: open 
@@ -83,8 +85,8 @@ Refraction waves is the change in direction of propagation of waves caused by **
 | Wave Speed | Decreasing | Increasing |
 | Direction of Propagation | Refracted towards normal | Refracted away from the normal |
 
-**Important!**
----
+#### **Important!**
+
 - Deep $\rightarrow$ Shallow - Towards
 - Shallow $\rightarrow$ Deep - Away
 
@@ -93,6 +95,7 @@ Since the frequency of waves remain unchanged when it move from deep to shallow,
 $in\:deep: v_1=f\lambda_1$
 $in\:deep: v_2=f\lambda_2$
 
+#### ii. Formula for Refraction of Waves
 ```ad-note
 title: #### Find the Wavelength or Speed of the Wave
 collapse: open 
@@ -126,11 +129,14 @@ Only amplitude and direction of propagation of waves will change upon diffractio
 #### What Can Changed Waves?
 Diffraction of waves is **influenced by the size of slit and wavelength.**
 - Fixed Wavelength
-	- the wider the slit size, the spreading of waves will be less significant.
-- On ***fixed slit size,*** the shorter the wavelength, the speading of the waves will be more significant.
+	- The $\:\uparrow$ wider the slit size, the $\downarrow$ lower the spreading of waves.
+- Fixed Slit Size
+	- The $\downarrow$ shorter the wavelength, the $\uparrow$ higher the speading of the waves.
 
 ---
 ## 6. Interference of Waves
+#### i. Principle of Superposition of Waves
+- When two waves overlap, the resultant displacement is the sum of the individual displacements of the two waves.
 
 
 ---
