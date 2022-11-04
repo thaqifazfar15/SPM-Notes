@@ -46,7 +46,7 @@ An oscillating system that is displaced and then left to oscillate wihtout the a
 	2. System oscillates at maximum ampltudes.
 ---
 ## 3. Reflection of Waves
- | **Characteristics of Wave** |**Effect After Reflection** |
+ | **Characteristics of Wave** |**wEffect After Reflection** |
  |---|---|
  | Angle of Incidence and Reflection | Equal |
  | Wavelength | Unchanged |
@@ -75,7 +75,18 @@ $t = time\:taken\:between\:sending\:and\:receiving\:wave$
 Refraction waves is the change in direction of propagation of waves caused by **the change in the velocity of waves** when the waves propagate from one medium to another.
 
 #### i. Refraction of Waves in Water
-| **Characteristics** | Deep $\rightarrow$ Shallow | Shallow $\rightarrow$ Deep |
+| **Characteristics** | *Deep $\rightarrow$ Shallow* | *Shallow $\rightarrow$ Deep* |
+|---|---|---|
+| Angle of Incidence and Refraction | Incidence > Refraction | Incidence > Refraction |
+| Wavelength | Decreasing | Increasing |
+| Frequency | Unchanged | Unchanged |
+| Wave Speed | Decreasing | Increasing |
+| Direction of Propagation | Refracted towards normal | Refracted away from the normal |
+
+**Important!**
+---
+- Deep $\rightarrow$ Shallow - Towards
+- Shallow $\rightarrow$ Deep - Away
 
 ---
 ## 5. Interference of Waves
