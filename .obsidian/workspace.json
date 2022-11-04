@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "9. Chemistry/1. Important Notes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "9. Chemistry/1. Important Notes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "9. Chemistry/1. Important Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "9. Chemistry/1. Important Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md"
+                "file": "9. Chemistry/1. Important Notes.md"
               }
             }
           },
@@ -208,17 +208,17 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "6d625c64a0050919",
+  "active": "aca16a43168e68c1",
   "lastOpenFiles": [
-    "7. Physics/F5C7 - Quantum Physics.md",
     "Day Planners/Day Planner-20221104.md",
-    "7. Physics/F4C5 - Waves.md",
-    "README.md",
-    "0. Files/Daily Notes/04-11-2022.md",
     "9. Chemistry/1. Important Notes.md",
     "8. Biology/1. Important Notes.md",
+    "8. Biology/0. MOC Biology.md",
+    "7. Physics/F4C5 - Waves.md",
+    "7. Physics/F5C7 - Quantum Physics.md",
+    "README.md",
+    "0. Files/Daily Notes/04-11-2022.md",
     "9. Chemistry/0. MOC Chemistry.md",
-    "6. AddMath/1. Important Notes.md",
-    "2. Sejarah/2. Exercise Link.md"
+    "6. AddMath/1. Important Notes.md"
   ]
 }

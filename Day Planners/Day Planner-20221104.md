@@ -5,17 +5,17 @@
 - [x] 07:00 Morning
 - [x] 08:00 School
 - [x] 10:00 BREAK
-- [ ] 10:30 School
-- [ ] 11:50 BREAK
-- [ ] 12:30 Friday's Prayer
+- [x] 10:30 School
+- [x] 11:50 BREAK
+- [x] 12:30 Friday's Prayer
 ---
 
 ### Afternoon Session
 
 A section of the day dedicated to study.
 
-- [ ] 13:00 BREAK
-- [ ] 14:00 Study: ?
+- [ ] 14:00 BREAK
+- [ ] 14:30 Study: [[F4C5 - Waves]]
 - [ ] 16:00 BREAK
 - [ ] 16:30 Gaming
 - [ ] 17:30 BREAK
