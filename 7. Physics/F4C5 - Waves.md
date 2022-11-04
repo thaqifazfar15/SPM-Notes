@@ -103,6 +103,14 @@ $$\frac{v_1}{\lambda_{1}}=\frac{v_2}{\lambda_{2}}$$
 
 ``` 
 
+```ad-note
+title: #### Wavelength
+collapse: open
+icon:info-circle
+
+- Wavelength is the ***distance*** between ***crests to crests*** or ***throughs to throughs.***
+- 
+```
 ---
 ## 5. Interference of Waves
 

@@ -6,21 +6,20 @@
       {
         "id": "497e35986bdd1ceb",
         "type": "tabs",
-        "dimension": 49.31930693069307,
         "children": [
           {
-            "id": "cf1ac94e3698d3c6",
+            "id": "aca16a43168e68c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "9df3ffaffe8e8ab0"
+            "group": "77bec48f2ef6c409"
           },
           {
             "id": "9e84e85373310dfe",
@@ -51,23 +50,22 @@
         ]
       },
       {
-        "id": "1ca1781c2f7054eb",
+        "id": "32cbdca4bfcc7a0b",
         "type": "tabs",
-        "dimension": 50.680693069306926,
         "children": [
           {
-            "id": "d2b6b3e722d2e48f",
+            "id": "09d8e28c5cdea55c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "9df3ffaffe8e8ab0"
+            "group": "77bec48f2ef6c409"
           }
         ]
       }
@@ -136,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "7. Physics/F4C5 - Waves.md"
               }
             }
           },
@@ -211,8 +209,9 @@
     "width": 329.5,
     "collapsed": true
   },
-  "active": "cf1ac94e3698d3c6",
+  "active": "09d8e28c5cdea55c",
   "lastOpenFiles": [
+    "README.md",
     "7. Physics/F4C5 - Waves.md",
     "0. Files/Daily Notes/04-11-2022.md",
     "9. Chemistry/1. Important Notes.md",
@@ -221,7 +220,6 @@
     "6. AddMath/1. Important Notes.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "2. Sejarah/2. Exercise Link.md",
-    "2. Sejarah/1. Chapter Target.md",
-    "0. Files/Daily Notes/03-11-2022.md"
+    "2. Sejarah/1. Chapter Target.md"
   ]
 }
