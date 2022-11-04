@@ -14,7 +14,7 @@
 
 A section of the day dedicated to study.
 
-- [ ] 14:00 BREAK
+- [x] 14:00 BREAK
 - [ ] 14:30 Study: [[F4C5 - Waves]]
 - [ ] 16:00 BREAK
 - [ ] 16:30 Gaming
