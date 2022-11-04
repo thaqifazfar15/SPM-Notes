@@ -88,6 +88,8 @@ Refraction waves is the change in direction of propagation of waves caused by **
 - Deep $\rightarrow$ Shallow - Towards
 - Shallow $\rightarrow$ Deep - Away
 
+The fr
+
 ---
 ## 5. Interference of Waves
 
