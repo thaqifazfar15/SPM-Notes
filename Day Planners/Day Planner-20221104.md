@@ -24,7 +24,7 @@ A section of the day dedicated to study.
 ---
 ### Night Review
 
-- [ ] 21:00 Tuisyen Sejarah
-- [ ] 22:30 BREAK
+- [x] 21:00 Tuisyen Sejarah
+- [x] 22:30 BREAK
 - [ ] 22:45 Do:Wave exercise
 - [ ] 24:00 END
