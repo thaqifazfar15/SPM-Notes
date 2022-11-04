@@ -88,7 +88,20 @@ Refraction waves is the change in direction of propagation of waves caused by **
 - Deep $\rightarrow$ Shallow - Towards
 - Shallow $\rightarrow$ Deep - Away
 
-The fr
+Since the frequency of waves remain unchanged when it move from deep to shallow, then we can utilze this phenomenon to find the wavelength or speed of the waves.
+
+$in\:deep: v_1=f\lambda_1$
+$in\:deep: v_2=f\lambda_2$
+
+```ad-note
+title: #### Find the Wavelength or Speed of the Wave
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+$$\frac{v_1}{\lambda_{1}}=\frac{v_2}{\lambda_{2}}$$ 
+
+``` 
 
 ---
 ## 5. Interference of Waves
