@@ -42,15 +42,21 @@ An oscillating system that is displaced and then left to oscillate wihtout the a
 	2. Internal Damping 
 		- Loss energy due to stretching and compression of the vibrating particles in the system.
 #### ii. Resonance
-- When a **periodic force is applied** to an oscillating system **at its natural frequncy,** the oscillating system is said to be resonance.
+- When a **periodic force is applied** to an oscillating system **at its natural frequncy.**
 	1. System oscillates at its natural frequency.
 	2. System oscillates at maximum ampltudes.
 ---
 ## 3. Reflection of Waves
+ | **Characteristics of Wave** |**Effect After Reflection** |
+ |---|---|
+ | Angle of Incidence and Reflection | Equal |
+ | Wavelength | Unchanged |
+ | Frequency | Unchanged |
+ | Wave Speed | Unchanged |
+ | Direction of Propagation | Changed with the condition that the angle of incidence is the same as angle of reflection. |
 
 ---
 ## 4. Refraction of Waves
-
 ---
 ## 5. Interference of Waves
 

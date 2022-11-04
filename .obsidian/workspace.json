@@ -6,6 +6,7 @@
       {
         "id": "497e35986bdd1ceb",
         "type": "tabs",
+        "dimension": 49.31930693069307,
         "children": [
           {
             "id": "cf1ac94e3698d3c6",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -26,6 +27,7 @@
       {
         "id": "1ca1781c2f7054eb",
         "type": "tabs",
+        "dimension": 50.680693069306926,
         "children": [
           {
             "id": "d2b6b3e722d2e48f",
@@ -33,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md"
+                "file": "7. Physics/F4C5 - Waves.md"
               }
             }
           },
@@ -185,6 +187,7 @@
   },
   "active": "cf1ac94e3698d3c6",
   "lastOpenFiles": [
+    "2. Sejarah/2. Exercise Link.md",
     "2. Sejarah/1. Chapter Target.md",
     "7. Physics/F4C5 - Waves.md",
     "0. Files/Daily Notes/04-11-2022.md",
@@ -193,7 +196,6 @@
     "6. AddMath/F4C7 - Coordinate Geometry.md",
     "2. Sejarah/0. MOC Sejarah.md",
     "3. Mathemathics/0. MOC Mathemathics.md",
-    "3. Mathemathics/F4C5 - Network in Graph Theory.md",
-    "3. Mathemathics/F4C10 - Consumer Mathematics Financial Management.md"
+    "3. Mathemathics/F4C5 - Network in Graph Theory.md"
   ]
 }
