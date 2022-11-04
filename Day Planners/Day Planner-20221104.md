@@ -3,7 +3,7 @@
 ### Morning Prep
 
 - [x] 07:00 Morning
-- [ ] 08:00 School
+- [x] 08:00 School
 - [ ] 10:00 BREAK
 - [ ] 10:30 School
 - [ ] 11:50 BREAK
