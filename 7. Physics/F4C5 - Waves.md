@@ -149,8 +149,8 @@ icon:info-circle
 
 - Occurs when two crests/troughs are in superposition.
 
-$$Combined\:Displacement=A+A$$
-$$\r = 2A$$
+$$Combined\:Displacement=A+A=2A$$
+
 ```
 
 ```ad-note
@@ -158,7 +158,25 @@ title: #### Destructive Interference
 collapse: open
 icon:info-circle
 
-$formula\:or\:definition$ 
+- Occurs when crest and trough are in superposition.
+
+$$Combined\:Displacement=A+ (-A)=0$$
 ```
+
+#### iv. Pattern of Interference of Waves
+```ad-note
+title: #### Calculate the Wavelength Involving Interferences of Waves
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+$$\lambda=\frac{ax}{D}$$ 
+
+Where,
+$\lambda=wavelength$
+$a=distance\:of\:between\:2\:sources$
+$x=distance\:of\:between\:2\:adjacent\:nodal\:lines$
+$D=perpendicular\:distance\:from\:sources\:to\:where\:x\:is\:observed$
+``` 
 ---
 ## 7. Electromagnetic Waves

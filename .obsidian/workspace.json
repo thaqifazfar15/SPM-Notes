@@ -6,6 +6,7 @@
       {
         "id": "497e35986bdd1ceb",
         "type": "tabs",
+        "dimension": 47.27838258164852,
         "children": [
           {
             "id": "aca16a43168e68c1",
@@ -52,6 +53,7 @@
       {
         "id": "32cbdca4bfcc7a0b",
         "type": "tabs",
+        "dimension": 52.72161741835147,
         "children": [
           {
             "id": "09d8e28c5cdea55c",
@@ -208,7 +210,7 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "aca16a43168e68c1",
+  "active": "09d8e28c5cdea55c",
   "lastOpenFiles": [
     "7. Physics/F4C5 - Waves.md",
     "9. Chemistry/1. Important Notes.md",
