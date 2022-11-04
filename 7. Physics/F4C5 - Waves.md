@@ -32,7 +32,6 @@ $\lambda= wavelength,\:m$
 ``` 
 ---
 ## 2. Damping and Resonance
-
 An oscillating system that is displaced and then left to oscillate wihtout the action of external forces, will oscillate at its **natural frequency.**
 
 #### i. Damping
@@ -55,8 +54,29 @@ An oscillating system that is displaced and then left to oscillate wihtout the a
  | Wave Speed | Unchanged |
  | Direction of Propagation | Changed with the condition that the angle of incidence is the same as angle of reflection. |
 
+#### i. Application of Reflection of Waves
+Ultrasonic relfection is used to know the depth of the sea.
+
+```ad-note
+title: #### Calculate the Depth of the Sea using Ultrasonic Waves
+collapse: open 
+icon:calculator
+color: 188, 32, 79
+
+$$Depth,\:d=\frac{vt}{2}$$ 
+
+Where,
+$v =f\lambda$
+$t = time\:taken\:between\:sending\:and\:receiving\:wave$
+``` 
+
 ---
 ## 4. Refraction of Waves
+Refraction waves is the change in direction of propagation of waves caused by **the change in the velocity of waves** when the waves propagate from one medium to another.
+
+#### i. Refraction of Waves in Water
+| **Characteristics** | Deep $\rightarrow$ Shallow | Shallow $\rightarrow$ Deep |
+
 ---
 ## 5. Interference of Waves
 

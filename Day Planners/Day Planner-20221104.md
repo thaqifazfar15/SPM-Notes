@@ -4,7 +4,7 @@
 
 - [x] 07:00 Morning
 - [x] 08:00 School
-- [ ] 10:00 BREAK
+- [x] 10:00 BREAK
 - [ ] 10:30 School
 - [ ] 11:50 BREAK
 - [ ] 12:30 Friday's Prayer
