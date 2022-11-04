@@ -176,7 +176,7 @@ Where,
 $\lambda=wavelength$
 $a=distance\:of\:between\:2\:sources$
 $x=distance\:of\:between\:2\:adjacent\:nodal\:lines$
-$D=perpendicular\:distance\:from\:sources\:to\:where\:x\:is\:observed$
+$D=perpendicular\:distance\:from\:sources\:to\:screen$
 ``` 
 ---
 ## 7. Electromagnetic Waves
