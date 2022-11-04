@@ -115,12 +115,19 @@ icon:info-circle
 ## 5. Diffraction of Waves
 Diffraction of waves is the **spreading of waves** when the waves propagate through a slit or side of a barrier.
 
-Only amplitude and direction of propagation with change upon diffraction.
+#### What Changed in Waves?
+Only amplitude and direction of propagation of waves will change upon diffraction.
 
-1. Amplitude will decrease due to waves energy diverges and spread out to a wider region.
-- Direction of propagation will change from one direction to many directions because wavefronts spreads.
+- **Amplitude will decrease** due to waves energy diverges and spread out to a wider region.
+- **Direction of propagation** will change **from one direction to many** directions because wavefronts spreads.
 
-Direction
+- Wavelength, frequency and speed of the waves will remain unchanged.
+
+#### What Can Changed Waves?
+Diffraction of waves is **influenced by the size of slit and wavelength.**
+- Fixed Wavelength
+	- the wider the slit size, the spreading of waves will be less significant.
+- On ***fixed slit size,*** the shorter the wavelength, the speading of the waves will be more significant.
 
 ---
 ## 6. Interference of Waves
