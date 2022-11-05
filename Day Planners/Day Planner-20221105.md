@@ -15,7 +15,7 @@
 - [x] 14:00 Study: ?
 - [x] 16:00 BREAK
 - [x] 16:30 Gaming
-- [ ] 17:30 BREAK
+- [x] 17:30 BREAK
 - [ ] 18:00 Dinner
 ---
 ### Night Review
