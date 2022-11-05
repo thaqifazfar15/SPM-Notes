@@ -13,7 +13,7 @@
 
 - [x] 13:45 Review
 - [x] 14:00 Study: ?
-- [ ] 16:00 BREAK
+- [x] 16:00 BREAK
 - [ ] 16:30 Gaming
 - [ ] 17:30 BREAK
 - [ ] 18:00 Dinner
