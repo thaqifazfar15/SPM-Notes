@@ -1,0 +1,26 @@
+ ## Weekendz Day
+---
+### Morning Prep
+
+- [ ] 07:00 Morning
+- [ ] 08:30 Study
+- [ ] 09:20 Gaming
+- [ ] 10:00 Tuisyen English
+- [ ] 11:30 Do: Read Sejarah Text Book F4
+- [ ] 12:30 BREAK
+---
+### Afternoon Session
+
+- [ ] 13:45 Review
+- [ ] 14:00 Study: ?
+- [ ] 16:00 BREAK
+- [ ] 16:30 Gaming
+- [ ] 17:30 BREAK
+- [ ] 18:00 Dinner
+---
+### Night Review
+
+- [ ] 21:00 Tuisyen ?
+- [ ] 22:30 BREAK
+- [ ] 22:45 Review: ?
+- [ ] 23:00 END
