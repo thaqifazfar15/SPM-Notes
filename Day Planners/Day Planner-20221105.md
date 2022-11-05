@@ -12,7 +12,7 @@
 ### Afternoon Session
 
 - [x] 13:45 Review
-- [ ] 14:00 Study: ?
+- [x] 14:00 Study: ?
 - [ ] 16:00 BREAK
 - [ ] 16:30 Gaming
 - [ ] 17:30 BREAK
