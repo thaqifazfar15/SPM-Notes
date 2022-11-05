@@ -6,6 +6,7 @@
       {
         "id": "497e35986bdd1ceb",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "d9e046c2ea4d4fd3",
@@ -31,8 +32,7 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "a2c56bb4b4f3df54"
+            }
           },
           {
             "id": "4f9a50fd92d2efd5",
@@ -53,6 +53,7 @@
       {
         "id": "304b07f16cde2b28",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "2b1274c5682a1b56",
@@ -65,8 +66,7 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "a2c56bb4b4f3df54"
+            }
           }
         ]
       }
@@ -209,13 +209,13 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "2b1274c5682a1b56",
+  "active": "e8b07016e813efdf",
   "lastOpenFiles": [
+    "7. Physics/F4C5 - Waves.md",
+    "1. Bahasa Melayu/1. Important Notes.md",
     "6. AddMath/1. Important Notes.md",
     "7. Physics/1. Important Notes.md",
-    "1. Bahasa Melayu/1. Important Notes.md",
     "Day Planners/Day Planner-20221105.md",
-    "7. Physics/F4C5 - Waves.md",
     "Templates/5. Weekend Template.md",
     "Templates/4. Normal School Day Template.md",
     "2. Sejarah/F5C10 - Kecemerlangan Malaysia di Persada Dunia.md",
