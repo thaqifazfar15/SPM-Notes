@@ -18,8 +18,7 @@
                 "backlinks": false,
                 "source": true
               }
-            },
-            "group": "94ec681d10ff3e37"
+            }
           },
           {
             "id": "8682e26f2b2a3e6b",
@@ -40,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
@@ -49,26 +48,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "c42177ac1135e5ab",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c67131957a807b3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Sejarah/1. Chapter Target.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "94ec681d10ff3e37"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md",
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Sejarah/2. Exercise Link.md"
+                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
               }
             }
           },
@@ -211,6 +190,7 @@
   },
   "active": "d8bb80a17a9bb46c",
   "lastOpenFiles": [
+    "2. Sejarah/2. Exercise Link.md",
     "2. Sejarah/F5C10 - Kecemerlangan Malaysia di Persada Dunia.md",
     "2. Sejarah/1. Chapter Target.md",
     "0. Files/Daily Notes/05-11-2022.md",
@@ -219,7 +199,6 @@
     "0. Files/Daily Notes/04-11-2022.md",
     "1. Bahasa Melayu/1. Important Notes.md",
     "7. Physics/F4C5 - Waves.md",
-    "6. AddMath/1. Important Notes.md",
-    "7. Physics/1. Important Notes.md"
+    "6. AddMath/1. Important Notes.md"
   ]
 }
