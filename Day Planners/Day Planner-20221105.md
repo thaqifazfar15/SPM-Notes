@@ -6,7 +6,7 @@
 - [x] 08:30 Study
 - [x] 09:20 Gaming
 - [x] 10:00 Tuisyen
-- [ ] 11:50 Do: Sejarah F5C10 Exercise
+- [x] 11:50 Do: Sejarah F5C10 Exercise
 - [ ] 12:30 BREAK
 ---
 ### Afternoon Session
