@@ -6,7 +6,6 @@
       {
         "id": "497e35986bdd1ceb",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "d9e046c2ea4d4fd3",
@@ -32,7 +31,8 @@
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "363fa722a826d079"
           },
           {
             "id": "4f9a50fd92d2efd5",
@@ -51,12 +51,11 @@
         "currentTab": 1
       },
       {
-        "id": "304b07f16cde2b28",
+        "id": "e27fce2a211b3a27",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "2b1274c5682a1b56",
+            "id": "beec6d16c683df94",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +65,8 @@
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "363fa722a826d079"
           }
         ]
       }
@@ -209,7 +209,7 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "e8b07016e813efdf",
+  "active": "beec6d16c683df94",
   "lastOpenFiles": [
     "7. Physics/F4C5 - Waves.md",
     "1. Bahasa Melayu/1. Important Notes.md",
