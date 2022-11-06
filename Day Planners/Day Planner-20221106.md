@@ -22,5 +22,5 @@
 
 - [x] 21:00 Tuisyen ?
 - [x] 22:30 BREAK
-- [ ] 22:45 Review: ?
+- [x] 22:45 Review: ?
 - [ ] 23:00 END

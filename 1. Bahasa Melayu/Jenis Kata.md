@@ -1,16 +1,24 @@
 ## Kata Kerja 
 Menerangkan sesuatu **perbuatan**  yang dilakukan.
 - ***Kata Kerja Transitif***
-	Kata kerja yang perlu diikuti objek dalam ayat.
+	Kata kerja yang perlu diikuti objek sebagai *Frasa Nama* dalam ayat.
 	1. Kakak menonton drama.
 		- "Menonton" mesti disertai dengan objek!.
 	2. Adik menaiki bas.
 - ***Kata Kerja Tak Transitif***
 	Kata kerja yang sempurna maknya maka tidak perlu diikuti objek dan boleh berdiri dengan sendirinya.
-	1. Ayah sedang rehat. 
-		- "Rehat" tidak perlu objek dibelakangnya.
-	1. Dia termenung.
+	- Tanpa Pelengkap
+		1. Ayah sedang rehat. 
+			- "Rehat" tidak perlu objek dibelakangnya.
+		2. Dia termenung.
+	- Berpelengkap
+		Unsur pelengkapn ialah kata adjektif, frasa nama dan kata nama terbitan.
+		1. Mereka sekeluarga tinggal di Johor
+		2. Kehidupannya menjadi semakin miskin.
+		3. Pengemis itu tidur berselimutkan surat khabar.
+
 ## Kata Nama Terbitan
+
 
 ## Kata Majmuk
  **Gabungan 2 kata dasar** untuk membentuk satu maknak yang tertentu.
