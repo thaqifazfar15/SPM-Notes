@@ -3,7 +3,7 @@
 ### Morning Prep
 
 - [x] 07:00 Morning
-- [ ] 08:30 Study
+- [x] 08:30 Study
 - [ ] 09:30 BREAK
 - [ ] 10:00 Tuisyen English
 - [ ] 11:30 Do: Read Sejarah Text Book F4
