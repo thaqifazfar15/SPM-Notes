@@ -7,16 +7,16 @@
 - [x] 09:30 BREAK
 - [x] 10:00 Tuisyen English
 - [x] 11:30 Do: Read Sejarah Text Book F4
-- [ ] 12:30 BREAK
+- [x] 12:30 BREAK
 ---
 ### Afternoon Session
 
-- [ ] 13:45 Review
-- [ ] 14:00 Study: ?
-- [ ] 15:00 : FREE
-- [ ] 16:30 
-- [ ] 17:30 BREAK
-- [ ] 18:00 Dinner
+- [x] 13:45 Review
+- [x] 14:00 Study: ?
+- [x] 15:00 : FREE
+- [x] 16:30 
+- [x] 17:30 BREAK
+- [x] 18:00 Dinner
 ---
 ### Night Review
 
