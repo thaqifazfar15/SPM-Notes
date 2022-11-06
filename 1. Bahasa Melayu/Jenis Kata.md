@@ -18,7 +18,11 @@ Menerangkan sesuatu **perbuatan**  yang dilakukan.
 		3. Pengemis itu tidur berselimutkan surat khabar.
 
 ## Kata Nama Terbitan
-
+Kewujudan perkataan baru apabila kata dasar mengalami **proses pengimbuhan.**
+- Kata dasar itu boleh berasal daripada kata nama, kata kerja, kata adjektif, kata sendi nama, dan kata hubung.
+1. Sekolah - Persekolahan
+2. Gigi - Gerigi
+3. Kemumur - Kelemumur
 
 ## Kata Majmuk
  **Gabungan 2 kata dasar** untuk membentuk satu maknak yang tertentu.
@@ -39,5 +43,3 @@ Menerangkan sesuatu **perbuatan**  yang dilakukan.
 	2. Matahari
 	3. Suka cita
 
-## Kata Adjektif
-Merujuk **sifat atau keadaan** kata nama atau frasa nama.

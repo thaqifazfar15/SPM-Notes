@@ -8,52 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b3d09a9ee1d2e6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "21bbb43261640849"
-          },
-          {
             "id": "0ef34b0eed786a0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "file": "1. Bahasa Melayu/Jenis Ayat.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "ad997e599fcd8194"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "28be8098cb5621b8",
+        "id": "259feb9dc8d1a88e",
         "type": "tabs",
         "children": [
           {
-            "id": "9364ac196b86923d",
+            "id": "3304581426e3d2e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "file": "1. Bahasa Melayu/Jenis Ayat.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "21bbb43261640849"
+            "group": "ad997e599fcd8194"
           }
         ]
       }
@@ -122,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "file": "1. Bahasa Melayu/Jenis Ayat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "file": "1. Bahasa Melayu/Jenis Ayat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Bahasa Melayu/Jenis Kata.md"
+                "file": "1. Bahasa Melayu/Jenis Ayat.md"
               }
             }
           },
@@ -196,10 +182,10 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "0ef34b0eed786a0f",
+  "active": "3304581426e3d2e6",
   "lastOpenFiles": [
-    "1. Bahasa Melayu/Jenis Ayat.md",
     "1. Bahasa Melayu/Jenis Kata.md",
+    "1. Bahasa Melayu/Jenis Ayat.md",
     "Untitled.md",
     "1. Bahasa Melayu/1. Important Notes.md",
     "Day Planners/Day Planner-20221106.md",
