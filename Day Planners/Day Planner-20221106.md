@@ -5,8 +5,8 @@
 - [x] 07:00 Morning
 - [x] 08:30 Study
 - [x] 09:30 BREAK
-- [ ] 10:00 Tuisyen English
-- [ ] 11:30 Do: Read Sejarah Text Book F4
+- [x] 10:00 Tuisyen English
+- [x] 11:30 Do: Read Sejarah Text Book F4
 - [ ] 12:30 BREAK
 ---
 ### Afternoon Session
