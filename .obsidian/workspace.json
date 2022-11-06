@@ -20,6 +20,19 @@
               }
             },
             "group": "ad997e599fcd8194"
+          },
+          {
+            "id": "50f3e8ab4d03c811",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
           }
         ]
       },
@@ -182,7 +195,7 @@
     "direction": "horizontal",
     "width": 329.5
   },
-  "active": "3304581426e3d2e6",
+  "active": "0ef34b0eed786a0f",
   "lastOpenFiles": [
     "1. Bahasa Melayu/Jenis Kata.md",
     "1. Bahasa Melayu/Jenis Ayat.md",

@@ -7,6 +7,7 @@ Menerangkan sesuatu **perbuatan**  yang dilakukan.
 	2. Adik menaiki bas.
 - ***Kata Kerja Tak Transitif***
 	Kata kerja yang sempurna maknya maka tidak perlu diikuti objek dan boleh berdiri dengan sendirinya.
+- Jenis Kata Kerja 
 	- Tanpa Pelengkap
 		1. Ayah sedang rehat. 
 			- "Rehat" tidak perlu objek dibelakangnya.

@@ -23,6 +23,10 @@ Objek dihadapan dan kata kerja tidak punya imbuhan atau mempunyai imbuhan awalan
 #### Ayat Biasa
 - ***Susunan Ayat*** ialah Subjek + Prediket
 - Contoh
-	1. Seorang guru telah memenangi hadiah tiu.
+	  1. Orang itu sangat baik.
+#### Ayat Songsang
+- ***Susunan Ayat*** ialah Prediket + Subjek
+- Contoh
+	1. Sangat baik orang itu.
 
 ## Ayat Majmuk dan Ayat Tunggal
