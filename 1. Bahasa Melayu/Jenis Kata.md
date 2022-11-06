@@ -1,5 +1,15 @@
 ## Kata Kerja 
-
+Menerangkan sesuatu **perbuatan**  yang dilakukan.
+- ***Kata Kerja Transitif***
+	Kata kerja yang perlu diikuti objek dalam ayat.
+	1. Kakak menonton drama.
+		- "Menonton" mesti disertai dengan objek!.
+	2. Adik menaiki bas.
+- ***Kata Kerja Tak Transitif***
+	Kata kerja yang sempurna maknya maka tidak perlu diikuti objek dan boleh berdiri dengan sendirinya.
+	1. Ayah sedang rehat. 
+		- "Rehat" tidak perlu objek dibelakangnya.
+	1. Dia termenung.
 ## Kata Nama Terbitan
 
 ## Kata Majmuk
