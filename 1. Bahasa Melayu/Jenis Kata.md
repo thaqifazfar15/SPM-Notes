@@ -13,7 +13,7 @@ Menerangkan sesuatu **perbuatan**  yang dilakukan.
 			- "Rehat" tidak perlu objek dibelakangnya.
 		2. Dia termenung.
 	- Berpelengkap
-		Unsur pelengkapn ialah kata adjektif, frasa nama dan kata nama terbitan.
+		Unsur pelengkapn ialah kata adjektif, kata sendi nama dan kata nama terbitan.
 		1. Mereka sekeluarga tinggal di Johor
 		2. Kehidupannya menjadi semakin miskin.
 		3. Pengemis itu tidur berselimutkan surat khabar.
