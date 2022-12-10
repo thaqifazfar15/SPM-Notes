@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
-                "mode": "preview",
+                "file": "7. Physics/F4C5 - Waves.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md",
+                "file": "7. Physics/F4C5 - Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6. AddMath/F4C7 - Coordinate Geometry.md"
+                "file": "7. Physics/F4C5 - Waves.md"
               }
             }
           },
@@ -163,15 +163,15 @@
   },
   "active": "d475a5aaa4798ea9",
   "lastOpenFiles": [
+    "7. Physics/F5C3 - Electricity.md",
+    "7. Physics/1. Important Notes.md",
+    "README.md",
+    "Untitled.md",
+    "6. AddMath/F4C7 - Coordinate Geometry.md",
     "7. Physics/F4C5 - Waves.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "9. Chemistry/1. Important Notes.md",
-    "7. Physics/1. Important Notes.md",
     "6. AddMath/1. Important Notes.md",
-    "7. Physics/F5C3 - Electricity.md",
-    "7. Physics/0. MOC Physics.md",
-    "1. Bahasa Melayu/Jenis Ayat.md",
-    "1. Bahasa Melayu/1. Important Notes.md",
-    "1. Bahasa Melayu/Jenis Kata.md"
+    "7. Physics/0. MOC Physics.md"
   ]
 }
