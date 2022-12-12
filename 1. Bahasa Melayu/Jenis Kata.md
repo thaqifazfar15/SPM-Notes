@@ -39,8 +39,8 @@ Kewujudan perkataan baru apabila kata dasar mengalami **proses pengimbuhan.**
 	1.  Karbon dioksida
 	2. Reka bentuk
 	3. Pita suara
-- ***Kata Majmuk Yang Telah Mantap***
+- ***Kata Majmuk Yang Telah Mantap (Ditulis Rapat)***
 	1. Antarabangsa
 	2. Matahari
-	3. Suka cita
+	3. Olahraga
 

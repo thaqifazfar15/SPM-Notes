@@ -13,12 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "1. Bahasa Melayu/Jenis Kata.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "1349be136555144e"
+          }
+        ]
+      },
+      {
+        "id": "dd90648a22950e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27b49639c51715a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Bahasa Melayu/Jenis Kata.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "1349be136555144e"
           }
         ]
       }
@@ -87,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "1. Bahasa Melayu/Jenis Kata.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md",
+                "file": "1. Bahasa Melayu/Jenis Kata.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "7. Physics/F4C5 - Waves.md"
+                "file": "1. Bahasa Melayu/Jenis Kata.md"
               }
             }
           },
@@ -159,16 +180,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
-  "active": "d475a5aaa4798ea9",
+  "active": "27b49639c51715a4",
   "lastOpenFiles": [
+    "7. Physics/F4C5 - Waves.md",
     "7. Physics/F5C3 - Electricity.md",
     "7. Physics/1. Important Notes.md",
     "README.md",
     "Untitled.md",
     "6. AddMath/F4C7 - Coordinate Geometry.md",
-    "7. Physics/F4C5 - Waves.md",
     "7. Physics/F5C7 - Quantum Physics.md",
     "9. Chemistry/1. Important Notes.md",
     "6. AddMath/1. Important Notes.md",
