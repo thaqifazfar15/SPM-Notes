@@ -18,6 +18,6 @@ collapse: open
 icon:calculator
 color: 188, 32, 79
 
-
+Always put what X is not equal to beside a fraction to make sure denominator is not zero.
 
 ````
