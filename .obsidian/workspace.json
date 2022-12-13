@@ -11,28 +11,35 @@
             "id": "187c3353eb08ec2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "6. AddMath/F4C1 - Function.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "f445b2ee123ab415"
           }
         ]
       },
       {
-        "id": "dd90648a22950e2a",
+        "id": "9a32158e37cfa091",
         "type": "tabs",
         "children": [
           {
-            "id": "27b49639c51715a4",
+            "id": "f161998bddc76e02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Bahasa Melayu/1. Important Notes.md",
+                "file": "6. AddMath/F4C1 - Function.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
-            }
+            },
+            "group": "f445b2ee123ab415"
           }
         ]
       }
@@ -101,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6. AddMath/F4C1 - Function.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6. AddMath/F4C1 - Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6. AddMath/F4C1 - Function.md"
+              }
             }
           },
           {
@@ -172,17 +183,17 @@
     "width": 329.5,
     "collapsed": true
   },
-  "active": "187c3353eb08ec2e",
+  "active": "f161998bddc76e02",
   "lastOpenFiles": [
+    "6. AddMath/F4C7 - Coordinate Geometry.md",
+    "6. AddMath/F4C1 - Function.md",
+    "6. AddMath/1. Important Notes.md",
     "1. Bahasa Melayu/1. Important Notes.md",
     "1. Bahasa Melayu/Jenis Kata.md",
     "1. Bahasa Melayu/Jenis Ayat.md",
     "7. Physics/F4C5 - Waves.md",
     "7. Physics/F5C3 - Electricity.md",
     "7. Physics/1. Important Notes.md",
-    "README.md",
-    "Untitled.md",
-    "6. AddMath/F4C7 - Coordinate Geometry.md",
-    "7. Physics/F5C7 - Quantum Physics.md"
+    "README.md"
   ]
 }
