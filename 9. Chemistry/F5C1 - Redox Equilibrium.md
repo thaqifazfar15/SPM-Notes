@@ -31,9 +31,16 @@
 - Going down $\downarrow$ :  more electropositive, easier to release electron, strength of oxidizing agent increase
 
 ---
-## 2. Standard Electrode Potential
+## 2. Standard Electrode Potential, SEP
 
-i. More positive Standard Electrode Potential Value,
+- More positive SEP:
+	- Easier to donate electrons
+	- Easier to undergo reduction reaction
+	- Stronger oxidizing agents
+- Less positive 
+	- Easier to release electrons
+	- Easier to undergo oxidation reaction
+	- Stronger reducing agents
 
 ---
 
