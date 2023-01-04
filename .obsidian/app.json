@@ -4,7 +4,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": true,
-  "livePreview": false,
+  "livePreview": true,
   "spellcheck": false,
   "pdfExportSettings": {
     "includeName": true,
