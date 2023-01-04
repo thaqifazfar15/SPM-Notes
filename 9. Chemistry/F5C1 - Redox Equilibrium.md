@@ -14,20 +14,21 @@
 
 | **Electrochemical Series** | **Acronym** |
 |---|---|
-| K | Radi |
-| Ca | May |
-| Na | I |
-| Mg | See |
-| Al | Ur |
-| Zn | X |
-| Fe | Girlfriend |
-| Sn | Radi |
-| Pb | May |
-| H | I |
-|  | See |
-| Al | Ur |
-| Zn | X |
-| Fe | Girlfriend |
+| K | King |
+| Ca | Can |
+| Na | Not |
+| Mg | Make |
+| Al | A |
+| Zn | Zebra |
+| Fe | For |
+| Sn | Sam, |
+| Pb | Probably |
+| [H] | He |
+| Cu | Cut |
+| Ag | Silver |
+
+- Going up $\uparrow$:less electropositive, easier to receive electron, strength of reducing agent increase.
+- Going down $\downarrow$, more electropositive, easier to release electron, strength of oxidizing agent increase
 
 ---
 ## 2. Standard Electrode Potential
