@@ -27,8 +27,8 @@
 | Cu | Cut |
 | Ag | Silver |
 
-- Going up $\uparrow$:less electropositive, easier to receive electron, strength of reducing agent increase.
-- Going down $\downarrow$, more electropositive, easier to release electron, strength of oxidizing agent increase
+- Going up $\uparrow$ : less electropositive, easier to receive electron, strength of reducing agent increase.
+- Going down $\downarrow$ :  more electropositive, easier to release electron, strength of oxidizing agent increase
 
 ---
 ## 2. Standard Electrode Potential
