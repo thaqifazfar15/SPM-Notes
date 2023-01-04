@@ -33,6 +33,8 @@
 ---
 ## 2. Standard Electrode Potential
 
+i. More positive Standard Electrode Potential Value,
+
 ---
 
 ## 3. (sub chapter?)
